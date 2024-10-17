@@ -1,0 +1,23 @@
+{
+    "name": "styled-components",
+    "id": "MDEwOlJlcG9zaXRvcnk2NTc5NDI5Mg==",
+    "owner": "styled-components",
+    "stars": 40450,
+    "url": "https://github.com/styled-components/styled-components",
+    "total_pull_requests": 1321,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.15,
+    "median_additions": 32.5,
+    "mean_additions": 346.61,
+    "median_deletions": 3.0,
+    "mean_deletions": 68.71,
+    "median_time_since_last_activity": 143196.5,
+    "mean_time_since_last_activity": 865517.33,
+    "median_description_length": 124.0,
+    "mean_description_length": 356.61,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.7,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 5.03
+}

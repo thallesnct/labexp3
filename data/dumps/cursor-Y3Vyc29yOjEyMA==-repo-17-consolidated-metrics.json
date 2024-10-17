@@ -1,0 +1,23 @@
+{
+    "name": "metabase",
+    "id": "MDEwOlJlcG9zaXRvcnkzMDIwMzkzNQ==",
+    "owner": "metabase",
+    "stars": 38429,
+    "url": "https://github.com/metabase/metabase",
+    "total_pull_requests": 28490,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 8.5,
+    "median_additions": 39.0,
+    "mean_additions": 280.19,
+    "median_deletions": 14.5,
+    "mean_deletions": 170.86,
+    "median_time_since_last_activity": 337132.5,
+    "mean_time_since_last_activity": 5200331.98,
+    "median_description_length": 131.0,
+    "mean_description_length": 391.78,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 3.04,
+    "median_total_comments": 2.5,
+    "mean_total_comments": 4.98
+}

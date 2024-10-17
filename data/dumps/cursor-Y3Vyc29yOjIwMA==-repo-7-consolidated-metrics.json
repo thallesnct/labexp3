@@ -1,0 +1,23 @@
+{
+    "name": "ruff",
+    "id": "R_kgDOHy0BzQ",
+    "owner": "astral-sh",
+    "stars": 31918,
+    "url": "https://github.com/astral-sh/ruff",
+    "total_pull_requests": 8179,
+    "selected_prs_amount": 100,
+    "median_changed_files": 9.0,
+    "mean_changed_files": 8.9,
+    "median_additions": 163.5,
+    "mean_additions": 278.48,
+    "median_deletions": 9.0,
+    "mean_deletions": 34.89,
+    "median_time_since_last_activity": 40981.0,
+    "mean_time_since_last_activity": 146854.46,
+    "median_description_length": 62.5,
+    "mean_description_length": 319.02,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.33,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.58
+}

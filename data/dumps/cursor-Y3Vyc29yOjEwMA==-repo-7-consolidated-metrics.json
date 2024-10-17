@@ -1,0 +1,23 @@
+{
+    "name": "x64dbg",
+    "id": "MDEwOlJlcG9zaXRvcnkzMzc5MTc0Mw==",
+    "owner": "x64dbg",
+    "stars": 44571,
+    "url": "https://github.com/x64dbg/x64dbg",
+    "total_pull_requests": 856,
+    "selected_prs_amount": 91,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 8.45054945054945,
+    "median_additions": 48.0,
+    "mean_additions": 567.1758241758242,
+    "median_deletions": 9.0,
+    "mean_deletions": 219.17582417582418,
+    "median_time_since_last_activity": 584919.0,
+    "mean_time_since_last_activity": 3997285.10989011,
+    "median_description_length": 219.0,
+    "mean_description_length": 358.1098901098901,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.923076923076923,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 4.428571428571429
+}

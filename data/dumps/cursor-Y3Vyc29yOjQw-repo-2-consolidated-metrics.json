@@ -1,0 +1,23 @@
+{
+    "name": "netdata",
+    "id": "MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==",
+    "owner": "netdata",
+    "stars": 71503,
+    "url": "https://github.com/netdata/netdata",
+    "total_pull_requests": 10348,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 8.82,
+    "median_additions": 119.0,
+    "mean_additions": 502.88,
+    "median_deletions": 5.0,
+    "mean_deletions": 170.31,
+    "median_time_since_last_activity": 408297.0,
+    "mean_time_since_last_activity": 5635860.2,
+    "median_description_length": 233.5,
+    "mean_description_length": 598.81,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.26,
+    "median_total_comments": 8.0,
+    "mean_total_comments": 11.41
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ant-design",
+    "id": "MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==",
+    "owner": "ant-design",
+    "stars": 92172,
+    "url": "https://github.com/ant-design/ant-design",
+    "total_pull_requests": 18260,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.5,
+    "mean_changed_files": 6.91,
+    "median_additions": 55.0,
+    "mean_additions": 130.79,
+    "median_deletions": 6.0,
+    "mean_deletions": 44.5,
+    "median_time_since_last_activity": 163580.5,
+    "mean_time_since_last_activity": 299797.54,
+    "median_description_length": 27.5,
+    "mean_description_length": 129.3,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.44,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 6.41
+}

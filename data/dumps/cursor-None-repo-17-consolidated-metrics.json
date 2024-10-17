@@ -1,0 +1,23 @@
+{
+    "name": "scrcpy",
+    "id": "MDEwOlJlcG9zaXRvcnkxMTE1ODM1OTM=",
+    "owner": "Genymobile",
+    "stars": 110412,
+    "url": "https://github.com/Genymobile/scrcpy",
+    "total_pull_requests": 478,
+    "selected_prs_amount": 89,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.067415730337078,
+    "median_additions": 71.0,
+    "mean_additions": 208.38202247191012,
+    "median_deletions": 5.0,
+    "mean_deletions": 34.247191011235955,
+    "median_time_since_last_activity": 980320.0,
+    "mean_time_since_last_activity": 9295765.752808988,
+    "median_description_length": 182.0,
+    "mean_description_length": 333.4269662921348,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.146067415730337,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 9.314606741573034
+}

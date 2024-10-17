@@ -1,0 +1,23 @@
+{
+    "name": "pytorch-image-models",
+    "id": "MDEwOlJlcG9zaXRvcnkxNjg3OTk1MjY=",
+    "owner": "huggingface",
+    "stars": 31875,
+    "url": "https://github.com/huggingface/pytorch-image-models",
+    "total_pull_requests": 521,
+    "selected_prs_amount": 18,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 7.777777777777778,
+    "median_additions": 210.0,
+    "mean_additions": 1308.0,
+    "median_deletions": 19.0,
+    "mean_deletions": 99.94444444444444,
+    "median_time_since_last_activity": 1556644.5,
+    "mean_time_since_last_activity": 7808072.833333333,
+    "median_description_length": 227.5,
+    "mean_description_length": 491.55555555555554,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.4444444444444446,
+    "median_total_comments": 4.5,
+    "mean_total_comments": 7.0
+}

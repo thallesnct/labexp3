@@ -1,0 +1,23 @@
+{
+    "name": "zed",
+    "id": "MDEwOlJlcG9zaXRvcnkzNDA1NDc1MjA=",
+    "owner": "zed-industries",
+    "stars": 48430,
+    "url": "https://github.com/zed-industries/zed",
+    "total_pull_requests": 9159,
+    "selected_prs_amount": 100,
+    "median_changed_files": 6.0,
+    "mean_changed_files": 11.93,
+    "median_additions": 126.5,
+    "mean_additions": 421.65,
+    "median_deletions": 28.0,
+    "mean_deletions": 278.81,
+    "median_time_since_last_activity": 87357.5,
+    "mean_time_since_last_activity": 287360.46,
+    "median_description_length": 452.0,
+    "mean_description_length": 672.83,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.14,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.35
+}

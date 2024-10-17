@@ -1,0 +1,23 @@
+{
+    "name": "penpot",
+    "id": "MDEwOlJlcG9zaXRvcnk0ODc2OTI0MQ==",
+    "owner": "penpot",
+    "stars": 33105,
+    "url": "https://github.com/penpot/penpot",
+    "total_pull_requests": 3345,
+    "selected_prs_amount": 100,
+    "median_changed_files": 16.0,
+    "mean_changed_files": 23.65,
+    "median_additions": 368.5,
+    "mean_additions": 698.84,
+    "median_deletions": 197.5,
+    "mean_deletions": 847.6,
+    "median_time_since_last_activity": 78990.5,
+    "mean_time_since_last_activity": 257343.61,
+    "median_description_length": 0.0,
+    "mean_description_length": 183.75,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.14,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.34
+}

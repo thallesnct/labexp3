@@ -1,0 +1,23 @@
+{
+    "name": "AgentGPT",
+    "id": "R_kgDOJTvgag",
+    "owner": "reworkd",
+    "stars": 31572,
+    "url": "https://github.com/reworkd/AgentGPT",
+    "total_pull_requests": 1060,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.5,
+    "mean_changed_files": 9.63,
+    "median_additions": 67.5,
+    "mean_additions": 448.22,
+    "median_deletions": 20.5,
+    "mean_deletions": 349.48,
+    "median_time_since_last_activity": 50554.5,
+    "mean_time_since_last_activity": 374578.35,
+    "median_description_length": 121.0,
+    "mean_description_length": 240.81,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.61,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.01
+}

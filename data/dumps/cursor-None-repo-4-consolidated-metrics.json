@@ -1,0 +1,23 @@
+{
+    "name": "awesome-python",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==",
+    "owner": "vinta",
+    "stars": 221703,
+    "url": "https://github.com/vinta/awesome-python",
+    "total_pull_requests": 1939,
+    "selected_prs_amount": 89,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 0.9775280898876404,
+    "median_additions": 1.0,
+    "mean_additions": 1.9662921348314606,
+    "median_deletions": 0.0,
+    "mean_deletions": 0.5393258426966292,
+    "median_time_since_last_activity": 8694442.0,
+    "mean_time_since_last_activity": 24263108.606741574,
+    "median_description_length": 428.0,
+    "mean_description_length": 666.0786516853933,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.764044943820225,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.6404494382022472
+}

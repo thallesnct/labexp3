@@ -1,0 +1,23 @@
+{
+    "name": "okhttp",
+    "id": "MDEwOlJlcG9zaXRvcnk1MTUyMjg1",
+    "owner": "square",
+    "stars": 45794,
+    "url": "https://github.com/square/okhttp",
+    "total_pull_requests": 4318,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.08,
+    "median_additions": 60.0,
+    "mean_additions": 166.27,
+    "median_deletions": 6.0,
+    "mean_deletions": 73.07,
+    "median_time_since_last_activity": 73905.5,
+    "mean_time_since_last_activity": 1557568.32,
+    "median_description_length": 90.0,
+    "mean_description_length": 196.48,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.98,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.61
+}

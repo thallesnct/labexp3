@@ -1,0 +1,23 @@
+{
+    "name": "storybook",
+    "id": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+    "owner": "storybookjs",
+    "stars": 84226,
+    "url": "https://github.com/storybookjs/storybook",
+    "total_pull_requests": 12878,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 30.97,
+    "median_additions": 20.0,
+    "mean_additions": 1097.95,
+    "median_deletions": 3.0,
+    "mean_deletions": 216.98,
+    "median_time_since_last_activity": 371787.5,
+    "mean_time_since_last_activity": 1489517.21,
+    "median_description_length": 313.5,
+    "mean_description_length": 631.81,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 4.03,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 4.21
+}

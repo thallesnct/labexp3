@@ -1,0 +1,23 @@
+{
+    "name": "openai-cookbook",
+    "id": "R_kgDOG-3nPA",
+    "owner": "openai",
+    "stars": 59210,
+    "url": "https://github.com/openai/openai-cookbook",
+    "total_pull_requests": 882,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.36,
+    "median_additions": 9.5,
+    "mean_additions": 2352.24,
+    "median_deletions": 1.0,
+    "mean_deletions": 51.96,
+    "median_time_since_last_activity": 779093.0,
+    "mean_time_since_last_activity": 2579309.39,
+    "median_description_length": 94.0,
+    "mean_description_length": 233.14,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.57,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.75
+}

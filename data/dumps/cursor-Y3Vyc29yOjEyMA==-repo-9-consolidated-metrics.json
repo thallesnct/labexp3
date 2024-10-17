@@ -1,0 +1,23 @@
+{
+    "name": "dbeaver",
+    "id": "MDEwOlJlcG9zaXRvcnk0NDY2MjY2OQ==",
+    "owner": "dbeaver",
+    "stars": 40060,
+    "url": "https://github.com/dbeaver/dbeaver",
+    "total_pull_requests": 5867,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 8.13,
+    "median_additions": 44.0,
+    "mean_additions": 251.96,
+    "median_deletions": 10.0,
+    "mean_deletions": 119.24,
+    "median_time_since_last_activity": 92175.5,
+    "mean_time_since_last_activity": 448249.02,
+    "median_description_length": 76.5,
+    "mean_description_length": 141.08,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.41,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.84
+}

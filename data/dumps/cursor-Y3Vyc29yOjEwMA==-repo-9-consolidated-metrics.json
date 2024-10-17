@@ -1,0 +1,23 @@
+{
+    "name": "architecture-samples",
+    "id": "MDEwOlJlcG9zaXRvcnk1MTE0ODc4MA==",
+    "owner": "android",
+    "stars": 44409,
+    "url": "https://github.com/android/architecture-samples",
+    "total_pull_requests": 485,
+    "selected_prs_amount": 100,
+    "median_changed_files": 10.0,
+    "mean_changed_files": 18.86,
+    "median_additions": 79.0,
+    "mean_additions": 419.89,
+    "median_deletions": 72.5,
+    "mean_deletions": 376.31,
+    "median_time_since_last_activity": 424936.5,
+    "mean_time_since_last_activity": 11733347.86,
+    "median_description_length": 32.5,
+    "mean_description_length": 126.94,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 4.19,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.78
+}

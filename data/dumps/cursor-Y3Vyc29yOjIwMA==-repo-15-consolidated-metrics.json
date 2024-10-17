@@ -1,0 +1,23 @@
+{
+    "name": "vault",
+    "id": "MDEwOlJlcG9zaXRvcnkzMTI4ODk1OA==",
+    "owner": "hashicorp",
+    "stars": 31042,
+    "url": "https://github.com/hashicorp/vault",
+    "total_pull_requests": 22400,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.16,
+    "median_additions": 14.5,
+    "mean_additions": 470.06,
+    "median_deletions": 3.0,
+    "mean_deletions": 194.04,
+    "median_time_since_last_activity": 82460.0,
+    "mean_time_since_last_activity": 2714205.6,
+    "median_description_length": 69.5,
+    "mean_description_length": 200.39,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.65,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.88
+}

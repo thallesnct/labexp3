@@ -1,0 +1,23 @@
+{
+    "name": "awesome-android-ui",
+    "id": "MDEwOlJlcG9zaXRvcnkyODQyODcyOQ==",
+    "owner": "wasabeef",
+    "stars": 50503,
+    "url": "https://github.com/wasabeef/awesome-android-ui",
+    "total_pull_requests": 235,
+    "selected_prs_amount": 29,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 2.586206896551724,
+    "median_additions": 1.0,
+    "mean_additions": 1.6551724137931034,
+    "median_deletions": 0.0,
+    "mean_deletions": 0.20689655172413793,
+    "median_time_since_last_activity": 23840722.0,
+    "mean_time_since_last_activity": 22823360.48275862,
+    "median_description_length": 32.0,
+    "mean_description_length": 119.13793103448276,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.4827586206896552,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.9310344827586207
+}

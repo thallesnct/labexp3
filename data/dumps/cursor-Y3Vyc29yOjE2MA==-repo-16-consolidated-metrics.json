@@ -1,0 +1,23 @@
+{
+    "name": "lapce",
+    "id": "MDEwOlJlcG9zaXRvcnkxMjA0MjU3Nzk=",
+    "owner": "lapce",
+    "stars": 34367,
+    "url": "https://github.com/lapce/lapce",
+    "total_pull_requests": 1567,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.35,
+    "median_additions": 41.5,
+    "mean_additions": 137.56,
+    "median_deletions": 5.0,
+    "mean_deletions": 59.71,
+    "median_time_since_last_activity": 116071.5,
+    "mean_time_since_last_activity": 1557045.22,
+    "median_description_length": 169.0,
+    "mean_description_length": 325.68,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.13,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.46
+}

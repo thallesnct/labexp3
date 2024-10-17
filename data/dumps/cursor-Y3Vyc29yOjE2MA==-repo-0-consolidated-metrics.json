@@ -1,0 +1,23 @@
+{
+    "name": "v2rayNG",
+    "id": "MDEwOlJlcG9zaXRvcnkxODY3MzMwOTU=",
+    "owner": "2dust",
+    "stars": 35218,
+    "url": "https://github.com/2dust/v2rayNG",
+    "total_pull_requests": 369,
+    "selected_prs_amount": 24,
+    "median_changed_files": 2.5,
+    "mean_changed_files": 6.0,
+    "median_additions": 14.0,
+    "mean_additions": 127.33333333333333,
+    "median_deletions": 5.0,
+    "mean_deletions": 57.166666666666664,
+    "median_time_since_last_activity": 265574.0,
+    "mean_time_since_last_activity": 481808.375,
+    "median_description_length": 61.5,
+    "mean_description_length": 149.58333333333334,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 14.166666666666666,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 14.958333333333334
+}

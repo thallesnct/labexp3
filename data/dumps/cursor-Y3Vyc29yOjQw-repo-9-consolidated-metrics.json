@@ -1,0 +1,23 @@
+{
+    "name": "awesome-machine-learning",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTg3MjM5Mg==",
+    "owner": "josephmisiti",
+    "stars": 65694,
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "total_pull_requests": 902,
+    "selected_prs_amount": 18,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0555555555555556,
+    "median_additions": 1.0,
+    "mean_additions": 29.055555555555557,
+    "median_deletions": 0.0,
+    "mean_deletions": 25.88888888888889,
+    "median_time_since_last_activity": 1782989.0,
+    "mean_time_since_last_activity": 2464534.277777778,
+    "median_description_length": 56.5,
+    "mean_description_length": 82.16666666666667,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.0,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 0.8333333333333334
+}

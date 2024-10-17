@@ -1,0 +1,23 @@
+{
+    "name": "gradio",
+    "id": "MDEwOlJlcG9zaXRvcnkxNjI0MDU5NjM=",
+    "owner": "gradio-app",
+    "stars": 33172,
+    "url": "https://github.com/gradio-app/gradio",
+    "total_pull_requests": 4489,
+    "selected_prs_amount": 100,
+    "median_changed_files": 7.0,
+    "mean_changed_files": 17.87,
+    "median_additions": 114.5,
+    "mean_additions": 747.93,
+    "median_deletions": 29.5,
+    "mean_deletions": 939.57,
+    "median_time_since_last_activity": 124329.5,
+    "mean_time_since_last_activity": 409906.4,
+    "median_description_length": 173.5,
+    "mean_description_length": 328.46,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.56,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.35
+}

@@ -1,0 +1,23 @@
+{
+    "name": "yarn",
+    "id": "MDEwOlJlcG9zaXRvcnk0OTk3MDY0Mg==",
+    "owner": "yarnpkg",
+    "stars": 41434,
+    "url": "https://github.com/yarnpkg/yarn",
+    "total_pull_requests": 2296,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 9.38,
+    "median_additions": 23.5,
+    "mean_additions": 110.74,
+    "median_deletions": 3.0,
+    "mean_deletions": 31.02,
+    "median_time_since_last_activity": 160991.5,
+    "mean_time_since_last_activity": 1063730.29,
+    "median_description_length": 519.5,
+    "mean_description_length": 1171.87,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 4.04,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.83
+}

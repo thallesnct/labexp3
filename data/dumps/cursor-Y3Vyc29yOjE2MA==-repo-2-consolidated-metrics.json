@@ -1,0 +1,23 @@
+{
+    "name": "streamlit",
+    "id": "MDEwOlJlcG9zaXRvcnkyMDQwODY4NjI=",
+    "owner": "streamlit",
+    "stars": 35142,
+    "url": "https://github.com/streamlit/streamlit",
+    "total_pull_requests": 4977,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 19.08,
+    "median_additions": 57.0,
+    "mean_additions": 293.34,
+    "median_deletions": 22.0,
+    "mean_deletions": 202.78,
+    "median_time_since_last_activity": 96009.0,
+    "mean_time_since_last_activity": 473348.73,
+    "median_description_length": 203.0,
+    "mean_description_length": 360.03,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.4,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.0
+}

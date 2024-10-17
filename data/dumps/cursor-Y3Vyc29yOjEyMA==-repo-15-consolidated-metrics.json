@@ -1,0 +1,23 @@
+{
+    "name": "sentry",
+    "id": "MDEwOlJlcG9zaXRvcnk4NzMzMjg=",
+    "owner": "getsentry",
+    "stars": 38893,
+    "url": "https://github.com/getsentry/sentry",
+    "total_pull_requests": 64351,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.87,
+    "median_additions": 32.0,
+    "mean_additions": 175.57,
+    "median_deletions": 11.0,
+    "mean_deletions": 52.43,
+    "median_time_since_last_activity": 148445.5,
+    "mean_time_since_last_activity": 3935519.14,
+    "median_description_length": 262.5,
+    "mean_description_length": 309.24,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.89,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.73
+}

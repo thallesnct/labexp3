@@ -1,0 +1,17 @@
+[
+    {
+        "state": "CLOSED",
+        "description": 898,
+        "additions": 1674,
+        "deletions": 2,
+        "changed_files": 6,
+        "closed_at": "2017-02-15T08:47:23Z",
+        "created_at": "2015-12-13T20:08:58Z",
+        "merged_at": null,
+        "should_remove": false,
+        "time_since_last_activity": 37111105.0,
+        "total_comments": 11,
+        "total_participants": 6,
+        "total_reviews": 1
+    }
+]

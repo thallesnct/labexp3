@@ -1,0 +1,23 @@
+{
+    "name": "zig",
+    "id": "MDEwOlJlcG9zaXRvcnk0MDI3NjI3NA==",
+    "owner": "ziglang",
+    "stars": 34400,
+    "url": "https://github.com/ziglang/zig",
+    "total_pull_requests": 10238,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 8.08,
+    "median_additions": 91.0,
+    "mean_additions": 1299.16,
+    "median_deletions": 6.5,
+    "mean_deletions": 982.64,
+    "median_time_since_last_activity": 154288.5,
+    "mean_time_since_last_activity": 599646.6,
+    "median_description_length": 222.0,
+    "mean_description_length": 454.94,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.84,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.91
+}

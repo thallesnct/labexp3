@@ -1,0 +1,23 @@
+{
+    "name": "tldraw",
+    "id": "MDEwOlJlcG9zaXRvcnkzNjU3Mzk4MTI=",
+    "owner": "tldraw",
+    "stars": 35505,
+    "url": "https://github.com/tldraw/tldraw",
+    "total_pull_requests": 2796,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 9.27,
+    "median_additions": 56.5,
+    "mean_additions": 669.15,
+    "median_deletions": 8.0,
+    "mean_deletions": 357.95,
+    "median_time_since_last_activity": 175407.5,
+    "mean_time_since_last_activity": 1079200.83,
+    "median_description_length": 107.0,
+    "mean_description_length": 235.54,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.63,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.48
+}

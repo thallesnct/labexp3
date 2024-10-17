@@ -1,0 +1,23 @@
+{
+    "name": "trpc",
+    "id": "MDEwOlJlcG9zaXRvcnkyODA1NTcwNTQ=",
+    "owner": "trpc",
+    "stars": 34694,
+    "url": "https://github.com/trpc/trpc",
+    "total_pull_requests": 4157,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.5,
+    "mean_changed_files": 7.72,
+    "median_additions": 14.5,
+    "mean_additions": 201.65,
+    "median_deletions": 12.5,
+    "mean_deletions": 95.1,
+    "median_time_since_last_activity": 65840.5,
+    "mean_time_since_last_activity": 549621.91,
+    "median_description_length": 2133.0,
+    "mean_description_length": 3954.28,
+    "median_total_participants": 1.0,
+    "mean_total_participants": 1.39,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.45
+}

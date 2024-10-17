@@ -1,0 +1,23 @@
+{
+    "name": "nw.js",
+    "id": "MDEwOlJlcG9zaXRvcnkzMTAwMTIx",
+    "owner": "nwjs",
+    "stars": 40348,
+    "url": "https://github.com/nwjs/nw.js",
+    "total_pull_requests": 842,
+    "selected_prs_amount": 80,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 3.95,
+    "median_additions": 46.0,
+    "mean_additions": 92.2875,
+    "median_deletions": 1.0,
+    "mean_deletions": 13.9,
+    "median_time_since_last_activity": 1138032.5,
+    "mean_time_since_last_activity": 7731642.7125,
+    "median_description_length": 84.5,
+    "mean_description_length": 130.2625,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.275,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.625
+}

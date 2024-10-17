@@ -1,0 +1,23 @@
+{
+    "name": "SecLists",
+    "id": "MDEwOlJlcG9zaXRvcnkzNDgyNTg4",
+    "owner": "danielmiessler",
+    "stars": 57668,
+    "url": "https://github.com/danielmiessler/SecLists",
+    "total_pull_requests": 781,
+    "selected_prs_amount": 95,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 7.71578947368421,
+    "median_additions": 4.0,
+    "mean_additions": 42113.31578947369,
+    "median_deletions": 0.0,
+    "mean_deletions": 30848.2,
+    "median_time_since_last_activity": 4230290.0,
+    "mean_time_since_last_activity": 5565800.705263158,
+    "median_description_length": 108.0,
+    "mean_description_length": 262.66315789473686,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 7.6,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 5.91578947368421
+}

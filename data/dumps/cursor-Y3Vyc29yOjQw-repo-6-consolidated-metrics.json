@@ -1,0 +1,23 @@
+{
+    "name": "v2rayN",
+    "id": "MDEwOlJlcG9zaXRvcnkxOTk1NzAwNzE=",
+    "owner": "2dust",
+    "stars": 68234,
+    "url": "https://github.com/2dust/v2rayN",
+    "total_pull_requests": 299,
+    "selected_prs_amount": 11,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 12.727272727272727,
+    "median_additions": 30.0,
+    "mean_additions": 1363.4545454545455,
+    "median_deletions": 17.0,
+    "mean_deletions": 1282.0,
+    "median_time_since_last_activity": 518973.0,
+    "mean_time_since_last_activity": 1168309.0909090908,
+    "median_description_length": 74.0,
+    "mean_description_length": 90.0909090909091,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.090909090909091,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.2727272727272727
+}

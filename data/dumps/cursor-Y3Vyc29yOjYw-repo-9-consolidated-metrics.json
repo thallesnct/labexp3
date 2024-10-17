@@ -1,0 +1,23 @@
+{
+    "name": "Apollo-11",
+    "id": "MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==",
+    "owner": "chrislgarry",
+    "stars": 57633,
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "total_pull_requests": 516,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.18,
+    "median_additions": 37.5,
+    "mean_additions": 71.27,
+    "median_deletions": 19.0,
+    "mean_deletions": 59.0,
+    "median_time_since_last_activity": 899150.5,
+    "mean_time_since_last_activity": 2892150.36,
+    "median_description_length": 35.5,
+    "mean_description_length": 126.48,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.68,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.45
+}

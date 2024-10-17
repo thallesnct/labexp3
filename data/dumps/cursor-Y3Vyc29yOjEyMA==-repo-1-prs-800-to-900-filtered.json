@@ -1,0 +1,47 @@
+[
+    {
+        "state": "MERGED",
+        "description": 709,
+        "additions": 6,
+        "deletions": 0,
+        "changed_files": 1,
+        "closed_at": "2021-05-25T06:40:23Z",
+        "created_at": "2021-05-22T23:58:04Z",
+        "merged_at": "2021-05-25T06:40:23Z",
+        "should_remove": false,
+        "time_since_last_activity": 196939.0,
+        "total_comments": 0,
+        "total_participants": 2,
+        "total_reviews": 1
+    },
+    {
+        "state": "MERGED",
+        "description": 582,
+        "additions": 2,
+        "deletions": 0,
+        "changed_files": 1,
+        "closed_at": "2023-01-30T11:15:51Z",
+        "created_at": "2022-08-23T08:43:28Z",
+        "merged_at": "2023-01-30T11:15:51Z",
+        "should_remove": false,
+        "time_since_last_activity": 13833143.0,
+        "total_comments": 4,
+        "total_participants": 3,
+        "total_reviews": 1
+    },
+    {
+        "state": "MERGED",
+        "description": 0,
+        "additions": 2,
+        "deletions": 1,
+        "changed_files": 1,
+        "closed_at": "2023-01-23T08:54:23Z",
+        "created_at": "2023-01-07T18:47:27Z",
+        "merged_at": "2023-01-23T08:54:23Z",
+        "should_remove": false,
+        "time_since_last_activity": 1346816.0,
+        "total_comments": 1,
+        "total_participants": 4,
+        "total_reviews": 1
+    }
+]

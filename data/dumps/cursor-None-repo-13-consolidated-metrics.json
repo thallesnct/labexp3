@@ -1,0 +1,23 @@
+{
+    "name": "youtube-dl",
+    "id": "MDEwOlJlcG9zaXRvcnkxMDM5NTIw",
+    "owner": "ytdl-org",
+    "stars": 131860,
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "total_pull_requests": 4946,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.48,
+    "median_additions": 24.5,
+    "mean_additions": 66.92,
+    "median_deletions": 1.0,
+    "mean_deletions": 15.75,
+    "median_time_since_last_activity": 16605609.5,
+    "mean_time_since_last_activity": 42092611.0,
+    "median_description_length": 1625.0,
+    "mean_description_length": 1821.42,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.61,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.5
+}

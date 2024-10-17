@@ -1,0 +1,23 @@
+{
+    "name": "rich",
+    "id": "MDEwOlJlcG9zaXRvcnkyMjA4MDkzOTM=",
+    "owner": "Textualize",
+    "stars": 49208,
+    "url": "https://github.com/Textualize/rich",
+    "total_pull_requests": 1161,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.7,
+    "median_additions": 45.0,
+    "mean_additions": 101.86,
+    "median_deletions": 8.5,
+    "mean_deletions": 25.08,
+    "median_time_since_last_activity": 312941.5,
+    "mean_time_since_last_activity": 1840813.9,
+    "median_description_length": 666.5,
+    "mean_description_length": 1165.44,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.66,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.5
+}

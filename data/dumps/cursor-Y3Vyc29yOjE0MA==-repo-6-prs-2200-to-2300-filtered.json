@@ -1,0 +1,32 @@
+[
+    {
+        "state": "MERGED",
+        "description": 2925,
+        "additions": 123,
+        "deletions": 1,
+        "changed_files": 5,
+        "closed_at": "2023-01-31T15:37:00Z",
+        "created_at": "2023-01-20T10:17:59Z",
+        "merged_at": "2023-01-31T15:37:00Z",
+        "should_remove": false,
+        "time_since_last_activity": 969541.0,
+        "total_comments": 4,
+        "total_participants": 2,
+        "total_reviews": 1
+    },
+    {
+        "state": "CLOSED",
+        "description": 1213,
+        "additions": 107,
+        "deletions": 1,
+        "changed_files": 4,
+        "closed_at": "2024-05-17T13:42:35Z",
+        "created_at": "2023-01-31T14:00:06Z",
+        "merged_at": null,
+        "should_remove": false,
+        "time_since_last_activity": 40779749.0,
+        "total_comments": 1,
+        "total_participants": 2,
+        "total_reviews": 2
+    }
+]

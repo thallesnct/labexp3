@@ -1,0 +1,23 @@
+{
+    "name": "awesome-cpp",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTkzNTAzMQ==",
+    "owner": "fffaraz",
+    "stars": 59327,
+    "url": "https://github.com/fffaraz/awesome-cpp",
+    "total_pull_requests": 961,
+    "selected_prs_amount": 26,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0769230769230769,
+    "median_additions": 1.0,
+    "mean_additions": 2.576923076923077,
+    "median_deletions": 1.0,
+    "mean_deletions": 0.7692307692307693,
+    "median_time_since_last_activity": 71232.0,
+    "mean_time_since_last_activity": 12309437.038461538,
+    "median_description_length": 66.0,
+    "mean_description_length": 132.46153846153845,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.769230769230769,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.5769230769230769
+}

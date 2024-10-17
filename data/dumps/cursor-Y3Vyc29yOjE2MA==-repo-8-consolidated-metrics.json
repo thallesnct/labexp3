@@ -1,0 +1,23 @@
+{
+    "name": "TTS",
+    "id": "MDEwOlJlcG9zaXRvcnkyNjU2MTI0NDA=",
+    "owner": "coqui-ai",
+    "stars": 34688,
+    "url": "https://github.com/coqui-ai/TTS",
+    "total_pull_requests": 749,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.5,
+    "mean_changed_files": 19.26,
+    "median_additions": 65.5,
+    "mean_additions": 3723.87,
+    "median_deletions": 16.0,
+    "mean_deletions": 276.11,
+    "median_time_since_last_activity": 869517.5,
+    "mean_time_since_last_activity": 2595153.94,
+    "median_description_length": 74.5,
+    "mean_description_length": 338.53,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.16,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.25
+}

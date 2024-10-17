@@ -1,0 +1,23 @@
+{
+    "name": "fd",
+    "id": "MDEwOlJlcG9zaXRvcnk5MDc5MzQxOA==",
+    "owner": "sharkdp",
+    "stars": 33767,
+    "url": "https://github.com/sharkdp/fd",
+    "total_pull_requests": 711,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 3.48,
+    "median_additions": 35.5,
+    "mean_additions": 86.78,
+    "median_deletions": 4.0,
+    "mean_deletions": 34.14,
+    "median_time_since_last_activity": 169523.0,
+    "mean_time_since_last_activity": 2569990.8,
+    "median_description_length": 168.5,
+    "mean_description_length": 329.75,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.51,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.09
+}

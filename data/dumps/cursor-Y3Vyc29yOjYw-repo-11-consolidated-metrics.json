@@ -1,0 +1,23 @@
+{
+    "name": "html5-boilerplate",
+    "id": "MDEwOlJlcG9zaXRvcnk0ODY1NTA=",
+    "owner": "h5bp",
+    "stars": 56479,
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "total_pull_requests": 1737,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.45,
+    "median_additions": 15.5,
+    "mean_additions": 301.71,
+    "median_deletions": 16.0,
+    "mean_deletions": 431.33,
+    "median_time_since_last_activity": 130391.0,
+    "mean_time_since_last_activity": 1230642.46,
+    "median_description_length": 830.5,
+    "mean_description_length": 2294.17,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.35,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.47
+}

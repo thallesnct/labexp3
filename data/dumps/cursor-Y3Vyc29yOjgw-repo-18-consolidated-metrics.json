@@ -1,0 +1,23 @@
+{
+    "name": "marktext",
+    "id": "MDEwOlJlcG9zaXRvcnkxMTA0NDY4NDQ=",
+    "owner": "marktext",
+    "stars": 46895,
+    "url": "https://github.com/marktext/marktext",
+    "total_pull_requests": 1069,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 7.13,
+    "median_additions": 25.0,
+    "mean_additions": 169.18,
+    "median_deletions": 4.5,
+    "mean_deletions": 104.63,
+    "median_time_since_last_activity": 48678.5,
+    "mean_time_since_last_activity": 269700.45,
+    "median_description_length": 376.0,
+    "mean_description_length": 390.33,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.22,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.84
+}

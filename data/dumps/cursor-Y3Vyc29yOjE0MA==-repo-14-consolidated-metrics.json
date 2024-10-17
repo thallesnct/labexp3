@@ -1,0 +1,23 @@
+{
+    "name": "curl",
+    "id": "MDEwOlJlcG9zaXRvcnk1NjkwNDE=",
+    "owner": "curl",
+    "stars": 35674,
+    "url": "https://github.com/curl/curl",
+    "total_pull_requests": 9808,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 5.82,
+    "median_additions": 24.5,
+    "mean_additions": 111.41,
+    "median_deletions": 5.0,
+    "mean_deletions": 43.51,
+    "median_time_since_last_activity": 337362.0,
+    "mean_time_since_last_activity": 3497955.73,
+    "median_description_length": 317.0,
+    "mean_description_length": 490.57,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.09,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 7.24
+}

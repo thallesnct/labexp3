@@ -1,0 +1,23 @@
+{
+    "name": "istio",
+    "id": "MDEwOlJlcG9zaXRvcnk3NDE3NTgwNQ==",
+    "owner": "istio",
+    "stars": 35867,
+    "url": "https://github.com/istio/istio",
+    "total_pull_requests": 32836,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 9.04,
+    "median_additions": 58.5,
+    "mean_additions": 289.02,
+    "median_deletions": 13.5,
+    "mean_deletions": 122.95,
+    "median_time_since_last_activity": 60373.0,
+    "mean_time_since_last_activity": 187955.25,
+    "median_description_length": 216.0,
+    "mean_description_length": 220.84,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.76,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.8
+}

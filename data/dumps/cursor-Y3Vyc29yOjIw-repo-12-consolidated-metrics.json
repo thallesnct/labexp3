@@ -1,0 +1,23 @@
+{
+    "name": "pytorch",
+    "id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
+    "owner": "pytorch",
+    "stars": 82984,
+    "url": "https://github.com/pytorch/pytorch",
+    "total_pull_requests": 92047,
+    "selected_prs_amount": 100,
+    "median_changed_files": 6.0,
+    "mean_changed_files": 10.78,
+    "median_additions": 120.0,
+    "mean_additions": 358.63,
+    "median_deletions": 26.5,
+    "mean_deletions": 125.65,
+    "median_time_since_last_activity": 65124.5,
+    "mean_time_since_last_activity": 299469.25,
+    "median_description_length": 134.5,
+    "mean_description_length": 240.19,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.02,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.28
+}

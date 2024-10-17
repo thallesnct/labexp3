@@ -1,0 +1,15 @@
+{
+    "all_prs_median_size": 30.0,
+    "merged_prs_median_size": 31.0,
+    "closed_prs_median_size": 26.5,
+    "median_review_time": 69.1836111111111,
+    "all_prs_median_review_time": 69.1836111111111,
+    "merged_prs_median_review_time": 43.03319444444445,
+    "closed_prs_median_review_time": 854.1848611111111,
+    "all_prs_median_description_size": 195.0,
+    "merged_prs_median_description_size": 191.0,
+    "closed_prs_median_description_size": 210.5,
+    "all_prs_median_interaction_amount": 5.0,
+    "merged_prs_median_interaction_amount": 4.0,
+    "closed_prs_median_interaction_amount": 6.0
+}

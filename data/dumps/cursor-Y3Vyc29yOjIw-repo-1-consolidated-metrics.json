@@ -1,0 +1,23 @@
+{
+    "name": "deno",
+    "id": "MDEwOlJlcG9zaXRvcnkxMzM0NDIzODQ=",
+    "owner": "denoland",
+    "stars": 95976,
+    "url": "https://github.com/denoland/deno",
+    "total_pull_requests": 14049,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.54,
+    "median_additions": 30.0,
+    "mean_additions": 114.95,
+    "median_deletions": 7.0,
+    "mean_deletions": 131.9,
+    "median_time_since_last_activity": 82975.5,
+    "mean_time_since_last_activity": 300589.94,
+    "median_description_length": 66.0,
+    "mean_description_length": 195.17,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.34,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.6
+}

@@ -1,0 +1,23 @@
+{
+    "name": "papers-we-love",
+    "id": "MDEwOlJlcG9zaXRvcnkxNTIwNDg2MA==",
+    "owner": "papers-we-love",
+    "stars": 87503,
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "total_pull_requests": 517,
+    "selected_prs_amount": 29,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.7241379310344827,
+    "median_additions": 2.0,
+    "mean_additions": 9.379310344827585,
+    "median_deletions": 1.0,
+    "mean_deletions": 4.137931034482759,
+    "median_time_since_last_activity": 55039.0,
+    "mean_time_since_last_activity": 2312325.0,
+    "median_description_length": 226.0,
+    "mean_description_length": 361.7586206896552,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.7586206896551726,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.103448275862069
+}

@@ -1,0 +1,23 @@
+{
+    "name": "tidb",
+    "id": "MDEwOlJlcG9zaXRvcnk0MTk4NjM2OQ==",
+    "owner": "pingcap",
+    "stars": 37065,
+    "url": "https://github.com/pingcap/tidb",
+    "total_pull_requests": 37471,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 10.7,
+    "median_additions": 95.0,
+    "mean_additions": 1313.21,
+    "median_deletions": 26.5,
+    "mean_deletions": 330.49,
+    "median_time_since_last_activity": 135844.0,
+    "mean_time_since_last_activity": 256057.68,
+    "median_description_length": 98.5,
+    "mean_description_length": 132.88,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.95,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 4.26
+}

@@ -1,0 +1,23 @@
+{
+    "name": "airflow",
+    "id": "MDEwOlJlcG9zaXRvcnkzMzg4NDg5MQ==",
+    "owner": "apache",
+    "stars": 36701,
+    "url": "https://github.com/apache/airflow",
+    "total_pull_requests": 28676,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.01,
+    "median_additions": 75.0,
+    "mean_additions": 152.67,
+    "median_deletions": 3.5,
+    "mean_deletions": 34.64,
+    "median_time_since_last_activity": 2444796.5,
+    "mean_time_since_last_activity": 14055238.66,
+    "median_description_length": 398.0,
+    "mean_description_length": 508.73,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.98,
+    "median_total_comments": 7.0,
+    "mean_total_comments": 9.21
+}

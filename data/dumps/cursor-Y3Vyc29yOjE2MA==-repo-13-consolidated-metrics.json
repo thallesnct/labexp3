@@ -1,0 +1,23 @@
+{
+    "name": "awesome-react-native",
+    "id": "MDEwOlJlcG9zaXRvcnkzMjk0ODg2Mw==",
+    "owner": "jondot",
+    "stars": 34586,
+    "url": "https://github.com/jondot/awesome-react-native",
+    "total_pull_requests": 1057,
+    "selected_prs_amount": 7,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0,
+    "median_additions": 1.0,
+    "mean_additions": 171.85714285714286,
+    "median_deletions": 0.0,
+    "mean_deletions": 170.42857142857142,
+    "median_time_since_last_activity": 7817400.0,
+    "mean_time_since_last_activity": 20125574.57142857,
+    "median_description_length": 66.0,
+    "mean_description_length": 138.71428571428572,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.7142857142857144,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.7142857142857143
+}

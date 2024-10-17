@@ -1,0 +1,23 @@
+{
+    "name": "react-beautiful-dnd",
+    "id": "MDEwOlJlcG9zaXRvcnk5OTc2MTkwNw==",
+    "owner": "atlassian",
+    "stars": 33303,
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "total_pull_requests": 975,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 16.74,
+    "median_additions": 101.5,
+    "mean_additions": 920.43,
+    "median_deletions": 38.0,
+    "mean_deletions": 384.24,
+    "median_time_since_last_activity": 91313.0,
+    "mean_time_since_last_activity": 530585.34,
+    "median_description_length": 97.5,
+    "mean_description_length": 230.21,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.29,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.97
+}

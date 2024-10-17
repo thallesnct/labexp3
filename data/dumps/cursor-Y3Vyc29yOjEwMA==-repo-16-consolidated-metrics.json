@@ -1,0 +1,23 @@
+{
+    "name": "alist",
+    "id": "MDEwOlJlcG9zaXRvcnkzMjM5NjU2NTk=",
+    "owner": "AlistGo",
+    "stars": 42956,
+    "url": "https://github.com/AlistGo/alist",
+    "total_pull_requests": 823,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.7,
+    "median_additions": 17.5,
+    "mean_additions": 146.68,
+    "median_deletions": 3.0,
+    "mean_deletions": 28.13,
+    "median_time_since_last_activity": 91315.0,
+    "mean_time_since_last_activity": 671073.36,
+    "median_description_length": 183.0,
+    "mean_description_length": 2016.99,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.17,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 2.73
+}

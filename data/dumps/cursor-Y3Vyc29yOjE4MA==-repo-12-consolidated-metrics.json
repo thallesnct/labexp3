@@ -1,0 +1,23 @@
+{
+    "name": "brackets",
+    "id": "MDEwOlJlcG9zaXRvcnkyOTM1NzM1",
+    "owner": "adobe",
+    "stars": 33253,
+    "url": "https://github.com/adobe/brackets",
+    "total_pull_requests": 5602,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 10.39,
+    "median_additions": 37.5,
+    "mean_additions": 251.83,
+    "median_deletions": 5.0,
+    "mean_deletions": 723.86,
+    "median_time_since_last_activity": 556058.5,
+    "mean_time_since_last_activity": 8757129.67,
+    "median_description_length": 212.0,
+    "mean_description_length": 330.53,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.88,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 6.83
+}

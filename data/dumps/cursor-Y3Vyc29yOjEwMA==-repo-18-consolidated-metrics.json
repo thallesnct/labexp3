@@ -1,0 +1,23 @@
+{
+    "name": "CppCoreGuidelines",
+    "id": "MDEwOlJlcG9zaXRvcnk0MTA1ODA1NA==",
+    "owner": "isocpp",
+    "stars": 42650,
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "total_pull_requests": 1030,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.15,
+    "median_additions": 7.0,
+    "mean_additions": 32.34,
+    "median_deletions": 2.0,
+    "mean_deletions": 18.8,
+    "median_time_since_last_activity": 755506.5,
+    "mean_time_since_last_activity": 2433363.09,
+    "median_description_length": 113.0,
+    "mean_description_length": 251.13,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.9,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.7
+}

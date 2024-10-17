@@ -1,0 +1,23 @@
+{
+    "name": "models",
+    "id": "MDEwOlJlcG9zaXRvcnk1MTExNzgzNw==",
+    "owner": "tensorflow",
+    "stars": 77007,
+    "url": "https://github.com/tensorflow/models",
+    "total_pull_requests": 3823,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 7.97,
+    "median_additions": 13.0,
+    "mean_additions": 757.84,
+    "median_deletions": 5.0,
+    "mean_deletions": 35.37,
+    "median_time_since_last_activity": 275217.5,
+    "mean_time_since_last_activity": 6523715.41,
+    "median_description_length": 106.5,
+    "mean_description_length": 187.24,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.24,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 4.02
+}

@@ -1,0 +1,23 @@
+{
+    "name": "superset",
+    "id": "MDEwOlJlcG9zaXRvcnkzOTQ2NDAxOA==",
+    "owner": "apache",
+    "stars": 62286,
+    "url": "https://github.com/apache/superset",
+    "total_pull_requests": 16918,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 12.01,
+    "median_additions": 86.0,
+    "mean_additions": 340.01,
+    "median_deletions": 22.5,
+    "mean_deletions": 130.75,
+    "median_time_since_last_activity": 354936.5,
+    "mean_time_since_last_activity": 1336381.2,
+    "median_description_length": 349.0,
+    "mean_description_length": 473.94,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.1,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.02
+}

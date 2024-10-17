@@ -1,0 +1,23 @@
+{
+    "name": "impress.js",
+    "id": "MDEwOlJlcG9zaXRvcnkzMDY1NDU0",
+    "owner": "impress",
+    "stars": 37638,
+    "url": "https://github.com/impress/impress.js",
+    "total_pull_requests": 382,
+    "selected_prs_amount": 53,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 4.415094339622642,
+    "median_additions": 52.0,
+    "mean_additions": 548.2452830188679,
+    "median_deletions": 5.0,
+    "mean_deletions": 34.9811320754717,
+    "median_time_since_last_activity": 1939071.0,
+    "mean_time_since_last_activity": 13808248.96226415,
+    "median_description_length": 143.0,
+    "mean_description_length": 303.1320754716981,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.4150943396226414,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.9056603773584904
+}

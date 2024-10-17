@@ -1,0 +1,23 @@
+{
+    "name": "AFNetworking",
+    "id": "MDEwOlJlcG9zaXRvcnkxODI4Nzk1",
+    "owner": "AFNetworking",
+    "stars": 33325,
+    "url": "https://github.com/AFNetworking/AFNetworking",
+    "total_pull_requests": 1517,
+    "selected_prs_amount": 66,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.818181818181818,
+    "median_additions": 14.0,
+    "mean_additions": 90.28787878787878,
+    "median_deletions": 4.0,
+    "mean_deletions": 35.31818181818182,
+    "median_time_since_last_activity": 7325169.5,
+    "mean_time_since_last_activity": 21931649.560606062,
+    "median_description_length": 222.5,
+    "mean_description_length": 381.6666666666667,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.590909090909091,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.090909090909091
+}

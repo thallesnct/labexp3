@@ -1,0 +1,23 @@
+{
+    "name": "gatsby",
+    "id": "MDEwOlJlcG9zaXRvcnkzNjA0MDg5NA==",
+    "owner": "gatsbyjs",
+    "stars": 55264,
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "total_pull_requests": 22227,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 14.39,
+    "median_additions": 83.0,
+    "mean_additions": 529.78,
+    "median_deletions": 15.0,
+    "mean_deletions": 462.26,
+    "median_time_since_last_activity": 159124.0,
+    "mean_time_since_last_activity": 682962.32,
+    "median_description_length": 185.0,
+    "mean_description_length": 372.3,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.87,
+    "median_total_comments": 8.0,
+    "mean_total_comments": 10.1
+}

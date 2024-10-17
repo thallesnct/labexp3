@@ -1,0 +1,23 @@
+{
+    "name": "ray",
+    "id": "MDEwOlJlcG9zaXRvcnk3MTkzMjM0OQ==",
+    "owner": "ray-project",
+    "stars": 33435,
+    "url": "https://github.com/ray-project/ray",
+    "total_pull_requests": 29213,
+    "selected_prs_amount": 100,
+    "median_changed_files": 8.0,
+    "mean_changed_files": 12.91,
+    "median_additions": 252.0,
+    "mean_additions": 1148.72,
+    "median_deletions": 75.0,
+    "mean_deletions": 225.81,
+    "median_time_since_last_activity": 164302.5,
+    "mean_time_since_last_activity": 1661124.09,
+    "median_description_length": 143.0,
+    "mean_description_length": 225.09,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.2,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 5.9
+}

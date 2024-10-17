@@ -1,0 +1,23 @@
+{
+    "name": "prometheus",
+    "id": "MDEwOlJlcG9zaXRvcnk2ODM4OTIx",
+    "owner": "prometheus",
+    "stars": 55295,
+    "url": "https://github.com/prometheus/prometheus",
+    "total_pull_requests": 8816,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 16.01,
+    "median_additions": 36.0,
+    "mean_additions": 7033.51,
+    "median_deletions": 6.0,
+    "mean_deletions": 198.31,
+    "median_time_since_last_activity": 206260.0,
+    "mean_time_since_last_activity": 2512723.42,
+    "median_description_length": 178.5,
+    "mean_description_length": 385.15,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.57,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 6.32
+}

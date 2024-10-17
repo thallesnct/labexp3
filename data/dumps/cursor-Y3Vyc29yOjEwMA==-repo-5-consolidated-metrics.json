@@ -1,0 +1,23 @@
+{
+    "name": "starship",
+    "id": "MDEwOlJlcG9zaXRvcnkxNzg5OTExNTg=",
+    "owner": "starship",
+    "stars": 44737,
+    "url": "https://github.com/starship/starship",
+    "total_pull_requests": 3367,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 4.36,
+    "median_additions": 50.5,
+    "mean_additions": 93.9,
+    "median_deletions": 6.5,
+    "mean_deletions": 29.0,
+    "median_time_since_last_activity": 58986.0,
+    "mean_time_since_last_activity": 513479.3,
+    "median_description_length": 1583.5,
+    "mean_description_length": 1886.32,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.33,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.92
+}

@@ -1,0 +1,23 @@
+{
+    "name": "tauri",
+    "id": "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=",
+    "owner": "tauri-apps",
+    "stars": 83495,
+    "url": "https://github.com/tauri-apps/tauri",
+    "total_pull_requests": 5003,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 10.9,
+    "median_additions": 39.0,
+    "mean_additions": 635.42,
+    "median_deletions": 9.0,
+    "mean_deletions": 275.88,
+    "median_time_since_last_activity": 57691.0,
+    "mean_time_since_last_activity": 258309.67,
+    "median_description_length": 1560.5,
+    "mean_description_length": 1869.28,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.6,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.37
+}

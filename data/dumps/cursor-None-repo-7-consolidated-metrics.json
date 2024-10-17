@@ -1,0 +1,23 @@
+{
+    "name": "ohmyzsh",
+    "id": "MDEwOlJlcG9zaXRvcnkyOTExMzc=",
+    "owner": "ohmyzsh",
+    "stars": 173223,
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "total_pull_requests": 7395,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.81,
+    "median_additions": 12.5,
+    "mean_additions": 42.68,
+    "median_deletions": 1.0,
+    "mean_deletions": 19.74,
+    "median_time_since_last_activity": 15933842.0,
+    "mean_time_since_last_activity": 32484576.23,
+    "median_description_length": 170.5,
+    "mean_description_length": 304.55,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.15,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.33
+}

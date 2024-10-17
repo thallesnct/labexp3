@@ -1,0 +1,17 @@
+[
+    {
+        "state": "MERGED",
+        "description": 856,
+        "additions": 115,
+        "deletions": 11,
+        "changed_files": 3,
+        "closed_at": "2016-09-19T13:45:36Z",
+        "created_at": "2016-07-26T06:59:39Z",
+        "merged_at": "2016-09-19T13:45:36Z",
+        "should_remove": false,
+        "time_since_last_activity": 4776357.0,
+        "total_comments": 3,
+        "total_participants": 2,
+        "total_reviews": 5
+    }
+]

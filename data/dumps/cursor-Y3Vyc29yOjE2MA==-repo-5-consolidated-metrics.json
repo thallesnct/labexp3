@@ -1,0 +1,23 @@
+{
+    "name": "lottie-android",
+    "id": "MDEwOlJlcG9zaXRvcnk3MDE5ODg3NQ==",
+    "owner": "airbnb",
+    "stars": 35002,
+    "url": "https://github.com/airbnb/lottie-android",
+    "total_pull_requests": 791,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 5.27,
+    "median_additions": 8.0,
+    "mean_additions": 69.58,
+    "median_deletions": 3.0,
+    "mean_deletions": 34.31,
+    "median_time_since_last_activity": 97896.5,
+    "mean_time_since_last_activity": 559642.5,
+    "median_description_length": 133.5,
+    "mean_description_length": 228.71,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.16,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.27
+}

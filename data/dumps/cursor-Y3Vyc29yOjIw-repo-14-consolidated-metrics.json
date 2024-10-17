@@ -1,0 +1,23 @@
+{
+    "name": "realworld",
+    "id": "MDEwOlJlcG9zaXRvcnk1MjYzMTg0MQ==",
+    "owner": "gothinkster",
+    "stars": 80431,
+    "url": "https://github.com/gothinkster/realworld",
+    "total_pull_requests": 852,
+    "selected_prs_amount": 47,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.872340425531915,
+    "median_additions": 4.0,
+    "mean_additions": 95.23404255319149,
+    "median_deletions": 1.0,
+    "mean_deletions": 67.8936170212766,
+    "median_time_since_last_activity": 175614.0,
+    "mean_time_since_last_activity": 2937461.0212765955,
+    "median_description_length": 94.0,
+    "mean_description_length": 322.72340425531917,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.3191489361702127,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.4042553191489362
+}

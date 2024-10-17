@@ -1,0 +1,23 @@
+{
+    "name": "free-for-dev",
+    "id": "MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==",
+    "owner": "ripienaar",
+    "stars": 89237,
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "total_pull_requests": 3376,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0,
+    "median_additions": 1.0,
+    "mean_additions": 6.97,
+    "median_deletions": 0.0,
+    "mean_deletions": 5.16,
+    "median_time_since_last_activity": 89062.5,
+    "mean_time_since_last_activity": 1667301.99,
+    "median_description_length": 15.5,
+    "mean_description_length": 39.98,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.17,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.19
+}

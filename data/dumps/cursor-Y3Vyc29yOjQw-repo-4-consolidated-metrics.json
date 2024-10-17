@@ -1,0 +1,23 @@
+{
+    "name": "elasticsearch",
+    "id": "MDEwOlJlcG9zaXRvcnk1MDc3NzU=",
+    "owner": "elastic",
+    "stars": 69887,
+    "url": "https://github.com/elastic/elasticsearch",
+    "total_pull_requests": 78008,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 13.68,
+    "median_additions": 79.5,
+    "mean_additions": 290.7,
+    "median_deletions": 21.0,
+    "mean_deletions": 283.43,
+    "median_time_since_last_activity": 501134.0,
+    "mean_time_since_last_activity": 3915635.94,
+    "median_description_length": 304.5,
+    "mean_description_length": 489.3,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.0,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 4.83
+}

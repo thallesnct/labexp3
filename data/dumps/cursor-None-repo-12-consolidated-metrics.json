@@ -1,0 +1,23 @@
+{
+    "name": "transformers",
+    "id": "MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=",
+    "owner": "huggingface",
+    "stars": 133448,
+    "url": "https://github.com/huggingface/transformers",
+    "total_pull_requests": 17790,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.5,
+    "mean_changed_files": 8.59,
+    "median_additions": 66.5,
+    "mean_additions": 713.09,
+    "median_deletions": 9.5,
+    "mean_deletions": 201.41,
+    "median_time_since_last_activity": 604196.0,
+    "mean_time_since_last_activity": 2059313.7,
+    "median_description_length": 323.0,
+    "mean_description_length": 576.6,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.13,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 4.45
+}

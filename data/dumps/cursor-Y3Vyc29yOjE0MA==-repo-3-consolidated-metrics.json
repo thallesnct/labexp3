@@ -1,0 +1,23 @@
+{
+    "name": "MPAndroidChart",
+    "id": "MDEwOlJlcG9zaXRvcnkxOTE0ODk0OQ==",
+    "owner": "PhilJay",
+    "stars": 37587,
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "total_pull_requests": 509,
+    "selected_prs_amount": 14,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 5.857142857142857,
+    "median_additions": 10.0,
+    "mean_additions": 110.85714285714286,
+    "median_deletions": 3.0,
+    "mean_deletions": 15.714285714285714,
+    "median_time_since_last_activity": 19163046.0,
+    "mean_time_since_last_activity": 42256074.28571428,
+    "median_description_length": 203.0,
+    "mean_description_length": 546.3571428571429,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.857142857142857,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.142857142857143
+}

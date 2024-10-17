@@ -1,0 +1,23 @@
+{
+    "name": "FastChat",
+    "id": "R_kgDOJLWfsQ",
+    "owner": "lm-sys",
+    "stars": 36675,
+    "url": "https://github.com/lm-sys/FastChat",
+    "total_pull_requests": 1155,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.84,
+    "median_additions": 40.0,
+    "mean_additions": 6888.28,
+    "median_deletions": 3.0,
+    "mean_deletions": 37.44,
+    "median_time_since_last_activity": 143500.5,
+    "mean_time_since_last_activity": 435857.51,
+    "median_description_length": 386.0,
+    "mean_description_length": 613.32,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.71,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.73
+}

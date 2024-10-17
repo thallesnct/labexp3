@@ -1,0 +1,23 @@
+{
+    "name": "dify",
+    "id": "R_kgDOJVxJug",
+    "owner": "langgenius",
+    "stars": 48247,
+    "url": "https://github.com/langgenius/dify",
+    "total_pull_requests": 4152,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 6.93,
+    "median_additions": 16.5,
+    "mean_additions": 211.97,
+    "median_deletions": 4.0,
+    "mean_deletions": 42.08,
+    "median_time_since_last_activity": 54342.5,
+    "mean_time_since_last_activity": 124008.51,
+    "median_description_length": 30.0,
+    "mean_description_length": 126.14,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.51,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.54
+}

@@ -1,0 +1,23 @@
+{
+    "name": "carbon",
+    "id": "MDEwOlJlcG9zaXRvcnk5NDQ5ODYzNQ==",
+    "owner": "carbon-app",
+    "stars": 34535,
+    "url": "https://github.com/carbon-app/carbon",
+    "total_pull_requests": 823,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 5.35,
+    "median_additions": 36.5,
+    "mean_additions": 224.83,
+    "median_deletions": 7.0,
+    "mean_deletions": 181.19,
+    "median_time_since_last_activity": 90649.5,
+    "mean_time_since_last_activity": 1524148.21,
+    "median_description_length": 215.0,
+    "mean_description_length": 319.83,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.52,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.2
+}

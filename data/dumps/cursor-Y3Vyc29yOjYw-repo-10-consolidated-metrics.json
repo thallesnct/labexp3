@@ -1,0 +1,23 @@
+{
+    "name": "AppFlowy",
+    "id": "MDEwOlJlcG9zaXRvcnkzNzc0OTY1NjI=",
+    "owner": "AppFlowy-IO",
+    "stars": 56921,
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "total_pull_requests": 3522,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.5,
+    "mean_changed_files": 17.33,
+    "median_additions": 144.5,
+    "mean_additions": 842.98,
+    "median_deletions": 14.0,
+    "mean_deletions": 102.29,
+    "median_time_since_last_activity": 151581.0,
+    "mean_time_since_last_activity": 997669.48,
+    "median_description_length": 48.0,
+    "mean_description_length": 185.32,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.73,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.87
+}

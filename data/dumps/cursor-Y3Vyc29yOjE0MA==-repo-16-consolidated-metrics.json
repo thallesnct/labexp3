@@ -1,0 +1,23 @@
+{
+    "name": "aria2",
+    "id": "MDEwOlJlcG9zaXRvcnkxMTE2NTQy",
+    "owner": "aria2",
+    "stars": 35443,
+    "url": "https://github.com/aria2/aria2",
+    "total_pull_requests": 371,
+    "selected_prs_amount": 15,
+    "median_changed_files": 6.0,
+    "mean_changed_files": 41.4,
+    "median_additions": 19.0,
+    "mean_additions": 404.3333333333333,
+    "median_deletions": 9.0,
+    "mean_deletions": 304.46666666666664,
+    "median_time_since_last_activity": 304268.0,
+    "mean_time_since_last_activity": 9029538.066666666,
+    "median_description_length": 60.0,
+    "mean_description_length": 192.66666666666666,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 3.933333333333333,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.2666666666666666
+}

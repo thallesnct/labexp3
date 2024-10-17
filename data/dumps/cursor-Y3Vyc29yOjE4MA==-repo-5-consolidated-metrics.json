@@ -1,0 +1,23 @@
+{
+    "name": "daisyui",
+    "id": "MDEwOlJlcG9zaXRvcnkzMTY4MzY4MTY=",
+    "owner": "saadeghi",
+    "stars": 33605,
+    "url": "https://github.com/saadeghi/daisyui",
+    "total_pull_requests": 381,
+    "selected_prs_amount": 21,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.0952380952380953,
+    "median_additions": 13.0,
+    "mean_additions": 246.85714285714286,
+    "median_deletions": 2.0,
+    "mean_deletions": 15.523809523809524,
+    "median_time_since_last_activity": 198271.0,
+    "mean_time_since_last_activity": 3472018.9523809524,
+    "median_description_length": 65.0,
+    "mean_description_length": 210.33333333333334,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.5714285714285716,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.7619047619047619
+}

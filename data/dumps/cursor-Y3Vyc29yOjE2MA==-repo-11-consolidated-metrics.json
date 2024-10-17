@@ -1,0 +1,23 @@
+{
+    "name": "insomnia",
+    "id": "MDEwOlJlcG9zaXRvcnk1Njg5OTI4NA==",
+    "owner": "Kong",
+    "stars": 34610,
+    "url": "https://github.com/Kong/insomnia",
+    "total_pull_requests": 3591,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.5,
+    "mean_changed_files": 5.76,
+    "median_additions": 39.5,
+    "mean_additions": 318.7,
+    "median_deletions": 5.0,
+    "mean_deletions": 187.87,
+    "median_time_since_last_activity": 329261.5,
+    "mean_time_since_last_activity": 1148548.62,
+    "median_description_length": 431.0,
+    "mean_description_length": 571.81,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.29,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.66
+}

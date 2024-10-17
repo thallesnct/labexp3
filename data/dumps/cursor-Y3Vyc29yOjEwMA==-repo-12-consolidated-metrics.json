@@ -1,0 +1,23 @@
+{
+    "name": "PaddleOCR",
+    "id": "MDEwOlJlcG9zaXRvcnkyNjIyOTYxMjI=",
+    "owner": "PaddlePaddle",
+    "stars": 43466,
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "total_pull_requests": 3102,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 7.23,
+    "median_additions": 34.0,
+    "mean_additions": 731.46,
+    "median_deletions": 7.0,
+    "mean_deletions": 111.28,
+    "median_time_since_last_activity": 58944.0,
+    "mean_time_since_last_activity": 1715945.44,
+    "median_description_length": 4.0,
+    "mean_description_length": 145.67,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.68,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.46
+}

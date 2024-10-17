@@ -1,0 +1,23 @@
+{
+    "name": "googletest",
+    "id": "MDEwOlJlcG9zaXRvcnkzOTg0MDkzMg==",
+    "owner": "google",
+    "stars": 34593,
+    "url": "https://github.com/google/googletest",
+    "total_pull_requests": 2029,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.52,
+    "median_additions": 17.5,
+    "mean_additions": 65.55,
+    "median_deletions": 4.0,
+    "mean_deletions": 289.33,
+    "median_time_since_last_activity": 2935032.5,
+    "mean_time_since_last_activity": 9948694.42,
+    "median_description_length": 165.5,
+    "mean_description_length": 339.95,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.44,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 7.15
+}

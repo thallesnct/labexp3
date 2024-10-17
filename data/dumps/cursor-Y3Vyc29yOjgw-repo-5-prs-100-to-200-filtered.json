@@ -1,0 +1,17 @@
+[
+    {
+        "state": "MERGED",
+        "description": 370,
+        "additions": 1,
+        "deletions": 0,
+        "changed_files": 1,
+        "closed_at": "2023-05-19T20:22:56Z",
+        "created_at": "2023-04-26T12:36:39Z",
+        "merged_at": "2023-05-19T20:22:56Z",
+        "should_remove": false,
+        "time_since_last_activity": 2015177.0,
+        "total_comments": 2,
+        "total_participants": 3,
+        "total_reviews": 1
+    }
+]

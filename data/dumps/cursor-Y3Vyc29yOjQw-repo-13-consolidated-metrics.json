@@ -1,0 +1,23 @@
+{
+    "name": "sway",
+    "id": "MDEwOlJlcG9zaXRvcnkzMzExMDcwMTg=",
+    "owner": "FuelLabs",
+    "stars": 62651,
+    "url": "https://github.com/FuelLabs/sway",
+    "total_pull_requests": 3563,
+    "selected_prs_amount": 100,
+    "median_changed_files": 7.5,
+    "mean_changed_files": 11.53,
+    "median_additions": 146.5,
+    "mean_additions": 525.0,
+    "median_deletions": 29.5,
+    "mean_deletions": 176.04,
+    "median_time_since_last_activity": 98942.5,
+    "mean_time_since_last_activity": 525461.25,
+    "median_description_length": 256.0,
+    "mean_description_length": 591.36,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.75,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.95
+}

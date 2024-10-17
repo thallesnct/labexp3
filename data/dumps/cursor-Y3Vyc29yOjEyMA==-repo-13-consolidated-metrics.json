@@ -1,0 +1,23 @@
+{
+    "name": "prisma",
+    "id": "MDEwOlJlcG9zaXRvcnkxOTI5MjU4MzM=",
+    "owner": "prisma",
+    "stars": 39306,
+    "url": "https://github.com/prisma/prisma",
+    "total_pull_requests": 7852,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 6.99,
+    "median_additions": 19.5,
+    "mean_additions": 142.61,
+    "median_deletions": 5.0,
+    "mean_deletions": 78.66,
+    "median_time_since_last_activity": 167601.0,
+    "mean_time_since_last_activity": 604151.76,
+    "median_description_length": 34.5,
+    "mean_description_length": 338.78,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.11,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.5
+}

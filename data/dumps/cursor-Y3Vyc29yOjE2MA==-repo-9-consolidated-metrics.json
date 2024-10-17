@@ -1,0 +1,23 @@
+{
+    "name": "gym",
+    "id": "MDEwOlJlcG9zaXRvcnk1NzIyMjMwMg==",
+    "owner": "openai",
+    "stars": 34647,
+    "url": "https://github.com/openai/gym",
+    "total_pull_requests": 1456,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 5.86,
+    "median_additions": 10.0,
+    "mean_additions": 177.14,
+    "median_deletions": 4.0,
+    "mean_deletions": 124.81,
+    "median_time_since_last_activity": 599442.0,
+    "mean_time_since_last_activity": 4816712.01,
+    "median_description_length": 123.5,
+    "mean_description_length": 238.12,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 3.3,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.43
+}

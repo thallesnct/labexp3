@@ -1,0 +1,23 @@
+{
+    "name": "harness",
+    "id": "MDEwOlJlcG9zaXRvcnkxNjYwNzg5OA==",
+    "owner": "harness",
+    "stars": 32181,
+    "url": "https://github.com/harness/harness",
+    "total_pull_requests": 1503,
+    "selected_prs_amount": 99,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.202020202020202,
+    "median_additions": 20.0,
+    "mean_additions": 117.63636363636364,
+    "median_deletions": 3.0,
+    "mean_deletions": 28.595959595959595,
+    "median_time_since_last_activity": 458873.0,
+    "mean_time_since_last_activity": 3223229.121212121,
+    "median_description_length": 118.0,
+    "mean_description_length": 282.0808080808081,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.5757575757575757,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.8585858585858586
+}

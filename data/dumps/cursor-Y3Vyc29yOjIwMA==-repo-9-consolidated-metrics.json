@@ -1,0 +1,23 @@
+{
+    "name": "langflow",
+    "id": "R_kgDOI7jmAw",
+    "owner": "langflow-ai",
+    "stars": 31634,
+    "url": "https://github.com/langflow-ai/langflow",
+    "total_pull_requests": 2504,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 17.14,
+    "median_additions": 82.5,
+    "mean_additions": 864.56,
+    "median_deletions": 21.0,
+    "mean_deletions": 710.48,
+    "median_time_since_last_activity": 73034.5,
+    "mean_time_since_last_activity": 219178.15,
+    "median_description_length": 246.5,
+    "mean_description_length": 416.84,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.92,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.99
+}

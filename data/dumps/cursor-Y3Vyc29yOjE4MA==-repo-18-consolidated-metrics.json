@@ -1,0 +1,23 @@
+{
+    "name": "immutable-js",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTQxMzE5OA==",
+    "owner": "immutable-js",
+    "stars": 32940,
+    "url": "https://github.com/immutable-js/immutable-js",
+    "total_pull_requests": 775,
+    "selected_prs_amount": 92,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.641304347826087,
+    "median_additions": 37.5,
+    "mean_additions": 550.8695652173913,
+    "median_deletions": 4.0,
+    "mean_deletions": 539.3695652173913,
+    "median_time_since_last_activity": 3129979.0,
+    "mean_time_since_last_activity": 11508368.206521738,
+    "median_description_length": 183.0,
+    "mean_description_length": 426.8369565217391,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.75,
+    "median_total_comments": 2.5,
+    "mean_total_comments": 4.293478260869565
+}

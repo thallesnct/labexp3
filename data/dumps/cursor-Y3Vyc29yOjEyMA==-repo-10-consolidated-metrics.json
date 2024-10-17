@@ -1,0 +1,23 @@
+{
+    "name": "awesome-cheatsheets",
+    "id": "MDEwOlJlcG9zaXRvcnkxMTAwNTg4NTY=",
+    "owner": "LeCoupa",
+    "stars": 40014,
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "total_pull_requests": 304,
+    "selected_prs_amount": 15,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.466666666666667,
+    "median_additions": 51.0,
+    "mean_additions": 418.2,
+    "median_deletions": 0.0,
+    "mean_deletions": 35.733333333333334,
+    "median_time_since_last_activity": 2255471.0,
+    "mean_time_since_last_activity": 9414230.933333334,
+    "median_description_length": 36.0,
+    "mean_description_length": 132.86666666666667,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.6,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.2
+}

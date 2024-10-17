@@ -1,0 +1,23 @@
+{
+    "name": "compose",
+    "id": "MDEwOlJlcG9zaXRvcnkxNTA0NTc1MQ==",
+    "owner": "docker",
+    "stars": 33830,
+    "url": "https://github.com/docker/compose",
+    "total_pull_requests": 4327,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 4.71,
+    "median_additions": 23.5,
+    "mean_additions": 96.6,
+    "median_deletions": 4.0,
+    "mean_deletions": 61.48,
+    "median_time_since_last_activity": 992606.0,
+    "mean_time_since_last_activity": 9799177.34,
+    "median_description_length": 108.5,
+    "mean_description_length": 322.19,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 4.72,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.68
+}

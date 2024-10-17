@@ -1,0 +1,23 @@
+{
+    "name": "face_recognition",
+    "id": "MDEwOlJlcG9zaXRvcnk4Mzg0NDcyMA==",
+    "owner": "ageitgey",
+    "stars": 53140,
+    "url": "https://github.com/ageitgey/face_recognition",
+    "total_pull_requests": 232,
+    "selected_prs_amount": 17,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 3.411764705882353,
+    "median_additions": 18.0,
+    "mean_additions": 303.5882352941176,
+    "median_deletions": 2.0,
+    "mean_deletions": 30.705882352941178,
+    "median_time_since_last_activity": 4227961.0,
+    "mean_time_since_last_activity": 18989505.0,
+    "median_description_length": 97.0,
+    "mean_description_length": 135.52941176470588,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.235294117647059,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.8823529411764706
+}

@@ -1,0 +1,23 @@
+{
+    "name": "core",
+    "id": "MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==",
+    "owner": "home-assistant",
+    "stars": 72606,
+    "url": "https://github.com/home-assistant/core",
+    "total_pull_requests": 74817,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 10.52,
+    "median_additions": 45.5,
+    "mean_additions": 280.54,
+    "median_deletions": 8.5,
+    "mean_deletions": 109.19,
+    "median_time_since_last_activity": 329837.5,
+    "mean_time_since_last_activity": 641438.66,
+    "median_description_length": 912.0,
+    "mean_description_length": 1217.65,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 4.32,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.59
+}

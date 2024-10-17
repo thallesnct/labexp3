@@ -1,0 +1,23 @@
+{
+    "name": "awesome-javascript",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTM5Mzg3MQ==",
+    "owner": "sorrycc",
+    "stars": 33561,
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "total_pull_requests": 798,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.01,
+    "median_additions": 1.0,
+    "mean_additions": 4.99,
+    "median_deletions": 0.0,
+    "mean_deletions": 3.17,
+    "median_time_since_last_activity": 433821.5,
+    "mean_time_since_last_activity": 17604146.38,
+    "median_description_length": 37.5,
+    "mean_description_length": 80.15,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.57,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.7
+}

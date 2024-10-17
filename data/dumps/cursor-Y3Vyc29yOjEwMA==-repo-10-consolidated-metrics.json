@@ -1,0 +1,23 @@
+{
+    "name": "pandas",
+    "id": "MDEwOlJlcG9zaXRvcnk4NTgxMjc=",
+    "owner": "pandas-dev",
+    "stars": 43532,
+    "url": "https://github.com/pandas-dev/pandas",
+    "total_pull_requests": 33120,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 15.49,
+    "median_additions": 57.0,
+    "mean_additions": 682.27,
+    "median_deletions": 9.0,
+    "mean_deletions": 613.7,
+    "median_time_since_last_activity": 2291788.5,
+    "mean_time_since_last_activity": 8772187.31,
+    "median_description_length": 218.5,
+    "mean_description_length": 712.93,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.95,
+    "median_total_comments": 8.0,
+    "mean_total_comments": 12.39
+}

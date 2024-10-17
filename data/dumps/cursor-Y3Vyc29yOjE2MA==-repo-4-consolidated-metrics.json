@@ -1,0 +1,23 @@
+{
+    "name": "shadowsocks-android",
+    "id": "MDEwOlJlcG9zaXRvcnk3MTkwOTg2",
+    "owner": "shadowsocks",
+    "stars": 35118,
+    "url": "https://github.com/shadowsocks/shadowsocks-android",
+    "total_pull_requests": 388,
+    "selected_prs_amount": 108,
+    "median_changed_files": 7.0,
+    "mean_changed_files": 15.287037037037036,
+    "median_additions": 43.5,
+    "mean_additions": 636.0370370370371,
+    "median_deletions": 28.5,
+    "mean_deletions": 573.824074074074,
+    "median_time_since_last_activity": 176687.0,
+    "mean_time_since_last_activity": 2903153.537037037,
+    "median_description_length": 198.5,
+    "mean_description_length": 296.69444444444446,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.6944444444444446,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 6.018518518518518
+}

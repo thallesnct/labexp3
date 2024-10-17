@@ -1,0 +1,23 @@
+{
+    "name": "developer-roadmap",
+    "id": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+    "owner": "kamranahmedse",
+    "stars": 294517,
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "total_pull_requests": 4414,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 7.87,
+    "median_additions": 8.0,
+    "mean_additions": 25057.91,
+    "median_deletions": 1.0,
+    "mean_deletions": 313.71,
+    "median_time_since_last_activity": 244608.0,
+    "mean_time_since_last_activity": 5641226.95,
+    "median_description_length": 798.5,
+    "mean_description_length": 582.73,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 4.14,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.81
+}

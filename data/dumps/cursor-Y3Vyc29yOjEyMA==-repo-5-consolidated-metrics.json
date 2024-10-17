@@ -1,0 +1,23 @@
+{
+    "name": "Fooocus",
+    "id": "R_kgDOKFVBpg",
+    "owner": "lllyasviel",
+    "stars": 40830,
+    "url": "https://github.com/lllyasviel/Fooocus",
+    "total_pull_requests": 665,
+    "selected_prs_amount": 45,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 13.133333333333333,
+    "median_additions": 18.0,
+    "mean_additions": 587.9111111111112,
+    "median_deletions": 3.0,
+    "mean_deletions": 74.26666666666667,
+    "median_time_since_last_activity": 2681426.0,
+    "mean_time_since_last_activity": 4265995.977777778,
+    "median_description_length": 180.0,
+    "mean_description_length": 260.68888888888887,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 5.488888888888889,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 8.977777777777778
+}

@@ -1,0 +1,23 @@
+{
+    "name": "TensorFlow-Examples",
+    "id": "MDEwOlJlcG9zaXRvcnk0NTk4NjE2Mg==",
+    "owner": "aymericdamien",
+    "stars": 43388,
+    "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+    "total_pull_requests": 170,
+    "selected_prs_amount": 43,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.8604651162790697,
+    "median_additions": 2.0,
+    "mean_additions": 30.72093023255814,
+    "median_deletions": 2.0,
+    "mean_deletions": 21.74418604651163,
+    "median_time_since_last_activity": 271949.0,
+    "mean_time_since_last_activity": 691819.4186046511,
+    "median_description_length": 48.0,
+    "mean_description_length": 64.09302325581395,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.0697674418604652,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.11627906976744186
+}

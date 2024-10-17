@@ -1,0 +1,23 @@
+{
+    "name": "sqlmap",
+    "id": "MDEwOlJlcG9zaXRvcnk0NzkzMzky",
+    "owner": "sqlmapproject",
+    "stars": 32275,
+    "url": "https://github.com/sqlmapproject/sqlmap",
+    "total_pull_requests": 400,
+    "selected_prs_amount": 3,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.3333333333333333,
+    "median_additions": 4.0,
+    "mean_additions": 5.333333333333333,
+    "median_deletions": 4.0,
+    "mean_deletions": 3.0,
+    "median_time_since_last_activity": 251298.0,
+    "mean_time_since_last_activity": 3927493.0,
+    "median_description_length": 74.0,
+    "mean_description_length": 121.66666666666667,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.3333333333333335,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.6666666666666666
+}

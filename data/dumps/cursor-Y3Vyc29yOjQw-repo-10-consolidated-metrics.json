@@ -1,0 +1,23 @@
+{
+    "name": "webpack",
+    "id": "MDEwOlJlcG9zaXRvcnkzNjc4NzMx",
+    "owner": "webpack",
+    "stars": 64642,
+    "url": "https://github.com/webpack/webpack",
+    "total_pull_requests": 7015,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 7.55,
+    "median_additions": 31.5,
+    "mean_additions": 180.62,
+    "median_deletions": 6.5,
+    "mean_deletions": 100.03,
+    "median_time_since_last_activity": 217486.0,
+    "mean_time_since_last_activity": 5093970.93,
+    "median_description_length": 925.5,
+    "mean_description_length": 853.15,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.96,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 4.28
+}

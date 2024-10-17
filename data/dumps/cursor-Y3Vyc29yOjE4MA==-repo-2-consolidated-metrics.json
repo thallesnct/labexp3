@@ -1,0 +1,23 @@
+{
+    "name": "typst",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTA3MDI0Mjc=",
+    "owner": "typst",
+    "stars": 33819,
+    "url": "https://github.com/typst/typst",
+    "total_pull_requests": 1675,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 10.4,
+    "median_additions": 119.5,
+    "mean_additions": 271.99,
+    "median_deletions": 9.0,
+    "mean_deletions": 90.49,
+    "median_time_since_last_activity": 201503.5,
+    "mean_time_since_last_activity": 955244.22,
+    "median_description_length": 228.0,
+    "mean_description_length": 458.87,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.94,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 3.24
+}

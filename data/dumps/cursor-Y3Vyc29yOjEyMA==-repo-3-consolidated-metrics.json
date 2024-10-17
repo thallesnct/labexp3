@@ -1,0 +1,23 @@
+{
+    "name": "react-hook-form",
+    "id": "MDEwOlJlcG9zaXRvcnkxNzQwMzgwMzE=",
+    "owner": "react-hook-form",
+    "stars": 41325,
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "total_pull_requests": 2429,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.35,
+    "median_additions": 34.5,
+    "mean_additions": 144.64,
+    "median_deletions": 18.5,
+    "mean_deletions": 159.33,
+    "median_time_since_last_activity": 35834.0,
+    "mean_time_since_last_activity": 119419.35,
+    "median_description_length": 196.5,
+    "mean_description_length": 313.73,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.52,
+    "median_total_comments": 3.5,
+    "mean_total_comments": 5.92
+}

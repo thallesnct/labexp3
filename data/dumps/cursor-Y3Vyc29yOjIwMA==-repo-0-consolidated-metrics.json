@@ -1,0 +1,23 @@
+{
+    "name": "logseq",
+    "id": "MDEwOlJlcG9zaXRvcnkyNjYyMzExNDk=",
+    "owner": "logseq",
+    "stars": 32522,
+    "url": "https://github.com/logseq/logseq",
+    "total_pull_requests": 3304,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 8.97,
+    "median_additions": 53.0,
+    "mean_additions": 498.57,
+    "median_deletions": 25.5,
+    "mean_deletions": 238.54,
+    "median_time_since_last_activity": 52549.0,
+    "mean_time_since_last_activity": 523436.0,
+    "median_description_length": 19.0,
+    "mean_description_length": 109.11,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.5,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.26
+}

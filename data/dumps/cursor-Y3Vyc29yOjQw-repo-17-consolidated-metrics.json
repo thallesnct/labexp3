@@ -1,0 +1,23 @@
+{
+    "name": "PayloadsAllTheThings",
+    "id": "MDEwOlJlcG9zaXRvcnk3MTIyMDc1Nw==",
+    "owner": "swisskyrepo",
+    "stars": 60731,
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "total_pull_requests": 655,
+    "selected_prs_amount": 31,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.2903225806451615,
+    "median_additions": 8.0,
+    "mean_additions": 105.87096774193549,
+    "median_deletions": 1.0,
+    "mean_deletions": 33.354838709677416,
+    "median_time_since_last_activity": 1511542.0,
+    "mean_time_since_last_activity": 3170887.709677419,
+    "median_description_length": 37.0,
+    "mean_description_length": 109.6774193548387,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.161290322580645,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.7419354838709677
+}

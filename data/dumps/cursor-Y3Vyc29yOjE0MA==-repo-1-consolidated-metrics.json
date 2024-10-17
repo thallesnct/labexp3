@@ -1,0 +1,23 @@
+{
+    "name": "tabler",
+    "id": "MDEwOlJlcG9zaXRvcnkxMTk4MTEwMTA=",
+    "owner": "tabler",
+    "stars": 37945,
+    "url": "https://github.com/tabler/tabler",
+    "total_pull_requests": 837,
+    "selected_prs_amount": 95,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 14.905263157894737,
+    "median_additions": 6.0,
+    "mean_additions": 790.7263157894737,
+    "median_deletions": 3.0,
+    "mean_deletions": 1669.8842105263159,
+    "median_time_since_last_activity": 588528.0,
+    "mean_time_since_last_activity": 5189504.852631579,
+    "median_description_length": 114.0,
+    "mean_description_length": 401.6,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.610526315789474,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.3263157894736843
+}

@@ -1,0 +1,23 @@
+{
+    "name": "lobe-chat",
+    "id": "R_kgDOJlox8w",
+    "owner": "lobehub",
+    "stars": 42907,
+    "url": "https://github.com/lobehub/lobe-chat",
+    "total_pull_requests": 1596,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.5,
+    "mean_changed_files": 23.76,
+    "median_additions": 63.5,
+    "mean_additions": 503.93,
+    "median_deletions": 9.0,
+    "mean_deletions": 173.58,
+    "median_time_since_last_activity": 170082.5,
+    "mean_time_since_last_activity": 521511.47,
+    "median_description_length": 551.5,
+    "mean_description_length": 1363.71,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.18,
+    "median_total_comments": 8.0,
+    "mean_total_comments": 12.18
+}

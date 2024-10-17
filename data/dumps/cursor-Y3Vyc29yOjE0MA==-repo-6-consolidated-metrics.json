@@ -1,0 +1,23 @@
+{
+    "name": "phaser",
+    "id": "MDEwOlJlcG9zaXRvcnk5MzkzNzU5",
+    "owner": "phaserjs",
+    "stars": 37034,
+    "url": "https://github.com/phaserjs/phaser",
+    "total_pull_requests": 2373,
+    "selected_prs_amount": 83,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 5.831325301204819,
+    "median_additions": 17.0,
+    "mean_additions": 144.80722891566265,
+    "median_deletions": 4.0,
+    "mean_deletions": 31.734939759036145,
+    "median_time_since_last_activity": 728911.0,
+    "mean_time_since_last_activity": 3587224.5421686745,
+    "median_description_length": 335.0,
+    "mean_description_length": 587.9879518072289,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.63855421686747,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.4457831325301207
+}

@@ -1,0 +1,23 @@
+{
+    "name": "d3",
+    "id": "MDEwOlJlcG9zaXRvcnk5NDMxNDk=",
+    "owner": "d3",
+    "stars": 108658,
+    "url": "https://github.com/d3/d3",
+    "total_pull_requests": 1185,
+    "selected_prs_amount": 46,
+    "median_changed_files": 1.5,
+    "mean_changed_files": 6.782608695652174,
+    "median_additions": 4.5,
+    "mean_additions": 526.2608695652174,
+    "median_deletions": 4.0,
+    "mean_deletions": 98.34782608695652,
+    "median_time_since_last_activity": 123669.0,
+    "mean_time_since_last_activity": 3774430.152173913,
+    "median_description_length": 91.0,
+    "mean_description_length": 325.9347826086956,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.608695652173913,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.782608695652174
+}

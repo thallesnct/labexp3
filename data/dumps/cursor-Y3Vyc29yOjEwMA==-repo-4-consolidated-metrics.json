@@ -1,0 +1,23 @@
+{
+    "name": "joplin",
+    "id": "MDEwOlJlcG9zaXRvcnk3OTE2MjY4Mg==",
+    "owner": "laurent22",
+    "stars": 45542,
+    "url": "https://github.com/laurent22/joplin",
+    "total_pull_requests": 4607,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 3.0,
+    "median_additions": 23.0,
+    "mean_additions": 144.75,
+    "median_deletions": 2.5,
+    "mean_deletions": 13.34,
+    "median_time_since_last_activity": 384509.0,
+    "mean_time_since_last_activity": 1048054.11,
+    "median_description_length": 340.5,
+    "mean_description_length": 469.93,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.08,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 6.82
+}

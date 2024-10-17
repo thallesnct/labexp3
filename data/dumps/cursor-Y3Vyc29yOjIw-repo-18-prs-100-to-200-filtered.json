@@ -1,0 +1,62 @@
+[
+    {
+        "state": "MERGED",
+        "description": 447,
+        "additions": 75628,
+        "deletions": 6474,
+        "changed_files": 189,
+        "closed_at": "2020-11-02T03:08:02Z",
+        "created_at": "2020-10-15T14:20:10Z",
+        "merged_at": "2020-11-02T03:08:02Z",
+        "should_remove": false,
+        "time_since_last_activity": 1514872.0,
+        "total_comments": 2,
+        "total_participants": 2,
+        "total_reviews": 3
+    },
+    {
+        "state": "CLOSED",
+        "description": 222,
+        "additions": 1299,
+        "deletions": 193,
+        "changed_files": 21,
+        "closed_at": "2020-12-23T07:13:01Z",
+        "created_at": "2020-12-11T06:36:35Z",
+        "merged_at": null,
+        "should_remove": false,
+        "time_since_last_activity": 1038986.0,
+        "total_comments": 3,
+        "total_participants": 3,
+        "total_reviews": 4
+    },
+    {
+        "state": "MERGED",
+        "description": 129,
+        "additions": 32,
+        "deletions": 14,
+        "changed_files": 5,
+        "closed_at": "2020-12-16T23:10:37Z",
+        "created_at": "2020-12-11T23:02:33Z",
+        "merged_at": "2020-12-16T23:10:36Z",
+        "should_remove": false,
+        "time_since_last_activity": 432484.0,
+        "total_comments": 3,
+        "total_participants": 3,
+        "total_reviews": 1
+    },
+    {
+        "state": "MERGED",
+        "description": 251,
+        "additions": 48,
+        "deletions": 31,
+        "changed_files": 5,
+        "closed_at": "2020-12-16T23:12:55Z",
+        "created_at": "2020-12-16T19:45:22Z",
+        "merged_at": "2020-12-16T23:12:55Z",
+        "should_remove": false,
+        "time_since_last_activity": 12453.0,
+        "total_comments": 1,
+        "total_participants": 2,
+        "total_reviews": 1
+    }
+]

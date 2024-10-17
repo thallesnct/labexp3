@@ -1,0 +1,23 @@
+{
+    "name": "AutoGPT",
+    "id": "R_kgDOJKSTjA",
+    "owner": "Significant-Gravitas",
+    "stars": 167543,
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "total_pull_requests": 4417,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 6.66,
+    "median_additions": 19.0,
+    "mean_additions": 201.84,
+    "median_deletions": 6.0,
+    "mean_deletions": 66.63,
+    "median_time_since_last_activity": 393250.0,
+    "mean_time_since_last_activity": 1121013.31,
+    "median_description_length": 235.0,
+    "mean_description_length": 375.9,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 6.02,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 5.83
+}

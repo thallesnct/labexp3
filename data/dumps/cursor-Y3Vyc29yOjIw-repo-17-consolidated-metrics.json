@@ -1,0 +1,23 @@
+{
+    "name": "Font-Awesome",
+    "id": "MDEwOlJlcG9zaXRvcnkzNDcwNDcx",
+    "owner": "FortAwesome",
+    "stars": 73617,
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "total_pull_requests": 693,
+    "selected_prs_amount": 33,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 301.6969696969697,
+    "median_additions": 4.0,
+    "mean_additions": 2982.4848484848485,
+    "median_deletions": 2.0,
+    "mean_deletions": 2568.848484848485,
+    "median_time_since_last_activity": 1339111.0,
+    "mean_time_since_last_activity": 16820605.78787879,
+    "median_description_length": 234.0,
+    "mean_description_length": 234.72727272727272,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.303030303030303,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.878787878787879
+}

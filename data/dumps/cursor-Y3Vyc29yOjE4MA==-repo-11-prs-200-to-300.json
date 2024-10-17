@@ -1,0 +1,47 @@
+[
+    {
+        "state": "CLOSED",
+        "description": 34,
+        "additions": 121,
+        "deletions": 16,
+        "changed_files": 3,
+        "closed_at": "2022-11-30T02:48:08Z",
+        "created_at": "2022-11-25T05:29:24Z",
+        "merged_at": null,
+        "should_remove": true,
+        "time_since_last_activity": 422324.0,
+        "total_comments": 1,
+        "total_participants": 2,
+        "total_reviews": 0
+    },
+    {
+        "state": "CLOSED",
+        "description": 0,
+        "additions": 0,
+        "deletions": 87,
+        "changed_files": 1,
+        "closed_at": "2024-05-11T02:55:02Z",
+        "created_at": "2023-04-10T14:29:09Z",
+        "merged_at": null,
+        "should_remove": true,
+        "time_since_last_activity": 34259153.0,
+        "total_comments": 0,
+        "total_participants": 2,
+        "total_reviews": 0
+    },
+    {
+        "state": "MERGED",
+        "description": 0,
+        "additions": 102,
+        "deletions": 3,
+        "changed_files": 4,
+        "closed_at": "2024-05-11T02:54:17Z",
+        "created_at": "2024-04-25T05:33:04Z",
+        "merged_at": "2024-05-11T02:54:17Z",
+        "should_remove": true,
+        "time_since_last_activity": 1372873.0,
+        "total_comments": 0,
+        "total_participants": 2,
+        "total_reviews": 0
+    }
+]

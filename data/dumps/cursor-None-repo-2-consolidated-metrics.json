@@ -1,0 +1,23 @@
+{
+    "name": "996.ICU",
+    "id": "MDEwOlJlcG9zaXRvcnkxNzc3MzY1MzM=",
+    "owner": "996icu",
+    "stars": 269779,
+    "url": "https://github.com/996icu/996.ICU",
+    "total_pull_requests": 1984,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.87,
+    "median_additions": 4.0,
+    "mean_additions": 90.89,
+    "median_deletions": 0.5,
+    "mean_deletions": 107.91,
+    "median_time_since_last_activity": 19335.5,
+    "mean_time_since_last_activity": 78809.8,
+    "median_description_length": 20.0,
+    "mean_description_length": 70.35,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 16.83,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 24.61
+}

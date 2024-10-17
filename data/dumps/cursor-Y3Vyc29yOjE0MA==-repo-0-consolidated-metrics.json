@@ -1,0 +1,23 @@
+{
+    "name": "bert",
+    "id": "MDEwOlJlcG9zaXRvcnkxNTQ3NDc1Nzc=",
+    "owner": "google-research",
+    "stars": 38024,
+    "url": "https://github.com/google-research/bert",
+    "total_pull_requests": 210,
+    "selected_prs_amount": 4,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.5,
+    "median_additions": 14.5,
+    "mean_additions": 163.25,
+    "median_deletions": 3.0,
+    "mean_deletions": 17.25,
+    "median_time_since_last_activity": 14697700.5,
+    "mean_time_since_last_activity": 35418446.0,
+    "median_description_length": 23.5,
+    "mean_description_length": 27.25,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.75,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 5.25
+}

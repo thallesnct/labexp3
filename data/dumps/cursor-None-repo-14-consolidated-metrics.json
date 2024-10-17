@@ -1,0 +1,23 @@
+{
+    "name": "awesome-go",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTU0MDc1OQ==",
+    "owner": "avelino",
+    "stars": 130644,
+    "url": "https://github.com/avelino/awesome-go",
+    "total_pull_requests": 4655,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0,
+    "median_additions": 1.0,
+    "mean_additions": 2.08,
+    "median_deletions": 0.0,
+    "mean_deletions": 0.84,
+    "median_time_since_last_activity": 600285.5,
+    "mean_time_since_last_activity": 1345068.6,
+    "median_description_length": 1481.0,
+    "mean_description_length": 1349.08,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.34,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.39
+}

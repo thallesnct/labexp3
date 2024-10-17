@@ -1,0 +1,23 @@
+{
+    "name": "glide",
+    "id": "MDEwOlJlcG9zaXRvcnkxMTI2NzUwOQ==",
+    "owner": "bumptech",
+    "stars": 34640,
+    "url": "https://github.com/bumptech/glide",
+    "total_pull_requests": 956,
+    "selected_prs_amount": 94,
+    "median_changed_files": 3.5,
+    "mean_changed_files": 11.73404255319149,
+    "median_additions": 42.5,
+    "mean_additions": 209.12765957446808,
+    "median_deletions": 5.0,
+    "mean_deletions": 50.9468085106383,
+    "median_time_since_last_activity": 494984.5,
+    "mean_time_since_last_activity": 7432330.393617021,
+    "median_description_length": 697.5,
+    "mean_description_length": 1419.7978723404256,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.393617021276596,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 4.5638297872340425
+}

@@ -1,0 +1,23 @@
+{
+    "name": "obs-studio",
+    "id": "MDEwOlJlcG9zaXRvcnkxMzIzMzE1OA==",
+    "owner": "obsproject",
+    "stars": 59748,
+    "url": "https://github.com/obsproject/obs-studio",
+    "total_pull_requests": 6888,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.57,
+    "median_additions": 42.5,
+    "mean_additions": 389.11,
+    "median_deletions": 3.0,
+    "mean_deletions": 49.71,
+    "median_time_since_last_activity": 2673033.5,
+    "mean_time_since_last_activity": 7070262.1,
+    "median_description_length": 199.5,
+    "mean_description_length": 374.27,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.71,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 7.75
+}

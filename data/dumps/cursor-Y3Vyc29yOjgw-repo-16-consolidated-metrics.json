@@ -1,0 +1,23 @@
+{
+    "name": "n8n",
+    "id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+    "owner": "n8n-io",
+    "stars": 47144,
+    "url": "https://github.com/n8n-io/n8n",
+    "total_pull_requests": 9442,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 20.38,
+    "median_additions": 98.5,
+    "mean_additions": 530.1,
+    "median_deletions": 6.5,
+    "mean_deletions": 134.83,
+    "median_time_since_last_activity": 1275324.0,
+    "mean_time_since_last_activity": 3950628.93,
+    "median_description_length": 268.5,
+    "mean_description_length": 1046.63,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.39,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.18
+}

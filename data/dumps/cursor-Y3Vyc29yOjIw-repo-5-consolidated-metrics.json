@@ -1,0 +1,23 @@
+{
+    "name": "godot",
+    "id": "MDEwOlJlcG9zaXRvcnkxNTYzNDk4MQ==",
+    "owner": "godotengine",
+    "stars": 90207,
+    "url": "https://github.com/godotengine/godot",
+    "total_pull_requests": 44188,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 8.2,
+    "median_additions": 17.0,
+    "mean_additions": 1170.37,
+    "median_deletions": 3.5,
+    "mean_deletions": 91.7,
+    "median_time_since_last_activity": 422148.5,
+    "mean_time_since_last_activity": 4020532.02,
+    "median_description_length": 160.0,
+    "mean_description_length": 343.41,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.87,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.68
+}

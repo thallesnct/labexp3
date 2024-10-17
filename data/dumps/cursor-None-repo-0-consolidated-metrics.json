@@ -1,0 +1,23 @@
+{
+    "name": "freeCodeCamp",
+    "id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+    "owner": "freeCodeCamp",
+    "stars": 404093,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "total_pull_requests": 37568,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 3.02,
+    "median_additions": 4.0,
+    "mean_additions": 91.01,
+    "median_deletions": 1.5,
+    "mean_deletions": 109.67,
+    "median_time_since_last_activity": 214638.0,
+    "mean_time_since_last_activity": 1639043.26,
+    "median_description_length": 1999.0,
+    "mean_description_length": 1866.4,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.2,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 7.6
+}

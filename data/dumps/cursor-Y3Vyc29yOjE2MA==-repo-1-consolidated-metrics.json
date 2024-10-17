@@ -1,0 +1,23 @@
+{
+    "name": "wtfjs",
+    "id": "MDEwOlJlcG9zaXRvcnk5NzI0OTQwNg==",
+    "owner": "denysdovhan",
+    "stars": 35142,
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "total_pull_requests": 193,
+    "selected_prs_amount": 81,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.1481481481481481,
+    "median_additions": 6.0,
+    "mean_additions": 272.0,
+    "median_deletions": 1.0,
+    "mean_deletions": 11.11111111111111,
+    "median_time_since_last_activity": 671063.0,
+    "mean_time_since_last_activity": 6857080.617283951,
+    "median_description_length": 51.0,
+    "mean_description_length": 193.49382716049382,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.2962962962962963,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.7654320987654322
+}

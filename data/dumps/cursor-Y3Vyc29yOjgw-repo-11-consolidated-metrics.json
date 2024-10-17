@@ -1,0 +1,23 @@
+{
+    "name": "github-cheat-sheet",
+    "id": "MDEwOlJlcG9zaXRvcnkxODcwODg2MA==",
+    "owner": "tiimgreen",
+    "stars": 47942,
+    "url": "https://github.com/tiimgreen/github-cheat-sheet",
+    "total_pull_requests": 174,
+    "selected_prs_amount": 7,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 2.2857142857142856,
+    "median_additions": 2.0,
+    "mean_additions": 3.142857142857143,
+    "median_deletions": 4.0,
+    "mean_deletions": 17.0,
+    "median_time_since_last_activity": 21242292.0,
+    "mean_time_since_last_activity": 18730285.0,
+    "median_description_length": 22.0,
+    "mean_description_length": 89.28571428571429,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.0,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.8571428571428571
+}

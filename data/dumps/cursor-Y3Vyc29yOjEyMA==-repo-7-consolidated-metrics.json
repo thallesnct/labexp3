@@ -1,0 +1,23 @@
+{
+    "name": "dubbo",
+    "id": "MDEwOlJlcG9zaXRvcnk0NzEwOTIw",
+    "owner": "apache",
+    "stars": 40442,
+    "url": "https://github.com/apache/dubbo",
+    "total_pull_requests": 7486,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 14.58,
+    "median_additions": 89.0,
+    "mean_additions": 321.38,
+    "median_deletions": 13.5,
+    "mean_deletions": 88.17,
+    "median_time_since_last_activity": 677573.0,
+    "mean_time_since_last_activity": 2980475.78,
+    "median_description_length": 400.5,
+    "mean_description_length": 963.21,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.32,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.65
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ColossalAI",
+    "id": "R_kgDOGStmJA",
+    "owner": "hpcaitech",
+    "stars": 38736,
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "total_pull_requests": 4193,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 18.67,
+    "median_additions": 122.5,
+    "mean_additions": 642.22,
+    "median_deletions": 30.5,
+    "mean_deletions": 549.01,
+    "median_time_since_last_activity": 79737.0,
+    "mean_time_since_last_activity": 202089.45,
+    "median_description_length": 85.5,
+    "mean_description_length": 190.45,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.39,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.9
+}

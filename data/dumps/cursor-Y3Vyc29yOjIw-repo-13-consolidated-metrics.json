@@ -1,0 +1,23 @@
+{
+    "name": "neovim",
+    "id": "MDEwOlJlcG9zaXRvcnkxNjQwODk5Mg==",
+    "owner": "neovim",
+    "stars": 82559,
+    "url": "https://github.com/neovim/neovim",
+    "total_pull_requests": 18516,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 8.89,
+    "median_additions": 67.0,
+    "mean_additions": 743.81,
+    "median_deletions": 16.0,
+    "mean_deletions": 147.35,
+    "median_time_since_last_activity": 807184.5,
+    "mean_time_since_last_activity": 19640372.67,
+    "median_description_length": 244.0,
+    "mean_description_length": 644.76,
+    "median_total_participants": 5.0,
+    "mean_total_participants": 5.21,
+    "median_total_comments": 6.0,
+    "mean_total_comments": 13.96
+}

@@ -1,0 +1,23 @@
+{
+    "name": "awesome-ios",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTcwMDY5OQ==",
+    "owner": "vsouza",
+    "stars": 47165,
+    "url": "https://github.com/vsouza/awesome-ios",
+    "total_pull_requests": 2691,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.02,
+    "median_additions": 1.0,
+    "mean_additions": 3.47,
+    "median_deletions": 0.0,
+    "mean_deletions": 2.32,
+    "median_time_since_last_activity": 337505.0,
+    "mean_time_since_last_activity": 997057.79,
+    "median_description_length": 813.0,
+    "mean_description_length": 808.83,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.75,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.06
+}

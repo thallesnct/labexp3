@@ -1,0 +1,23 @@
+{
+    "name": "grafana",
+    "id": "MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==",
+    "owner": "grafana",
+    "stars": 64408,
+    "url": "https://github.com/grafana/grafana",
+    "total_pull_requests": 54441,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 7.18,
+    "median_additions": 33.0,
+    "mean_additions": 470.36,
+    "median_deletions": 6.0,
+    "mean_deletions": 56.15,
+    "median_time_since_last_activity": 732182.0,
+    "mean_time_since_last_activity": 4912298.83,
+    "median_description_length": 182.5,
+    "mean_description_length": 365.1,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.87,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 6.26
+}

@@ -1,0 +1,23 @@
+{
+    "name": "carbon-lang",
+    "id": "MDEwOlJlcG9zaXRvcnkyNTk0NjM2ODU=",
+    "owner": "carbon-language",
+    "stars": 32263,
+    "url": "https://github.com/carbon-language/carbon-lang",
+    "total_pull_requests": 3495,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 14.27,
+    "median_additions": 67.0,
+    "mean_additions": 201.11,
+    "median_deletions": 16.0,
+    "mean_deletions": 243.23,
+    "median_time_since_last_activity": 241271.0,
+    "mean_time_since_last_activity": 1354259.19,
+    "median_description_length": 131.5,
+    "mean_description_length": 238.86,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.85,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.28
+}

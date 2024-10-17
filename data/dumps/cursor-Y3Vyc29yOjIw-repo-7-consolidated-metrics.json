@@ -1,0 +1,23 @@
+{
+    "name": "puppeteer",
+    "id": "MDEwOlJlcG9zaXRvcnk5MDc5NjY2Mw==",
+    "owner": "puppeteer",
+    "stars": 88497,
+    "url": "https://github.com/puppeteer/puppeteer",
+    "total_pull_requests": 6098,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 4.28,
+    "median_additions": 34.0,
+    "mean_additions": 147.97,
+    "median_deletions": 9.0,
+    "mean_deletions": 35.82,
+    "median_time_since_last_activity": 34148.5,
+    "mean_time_since_last_activity": 225329.17,
+    "median_description_length": 60.5,
+    "mean_description_length": 120.79,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.76,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.57
+}

@@ -1,0 +1,23 @@
+{
+    "name": "what-happens-when",
+    "id": "MDEwOlJlcG9zaXRvcnkxNDE5NDE3NA==",
+    "owner": "alex",
+    "stars": 39991,
+    "url": "https://github.com/alex/what-happens-when",
+    "total_pull_requests": 2170,
+    "selected_prs_amount": 9,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0,
+    "median_additions": 3.0,
+    "mean_additions": 4.555555555555555,
+    "median_deletions": 2.0,
+    "mean_deletions": 2.111111111111111,
+    "median_time_since_last_activity": 4432424.0,
+    "mean_time_since_last_activity": 33521805.555555556,
+    "median_description_length": 84.0,
+    "mean_description_length": 96.55555555555556,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.2222222222222223,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.1111111111111111
+}

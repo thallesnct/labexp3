@@ -1,0 +1,23 @@
+{
+    "name": "terraform",
+    "id": "MDEwOlJlcG9zaXRvcnkxNzcyODE2NA==",
+    "owner": "hashicorp",
+    "stars": 42527,
+    "url": "https://github.com/hashicorp/terraform",
+    "total_pull_requests": 14462,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 9.06,
+    "median_additions": 68.0,
+    "mean_additions": 1069.18,
+    "median_deletions": 2.0,
+    "mean_deletions": 20.46,
+    "median_time_since_last_activity": 459974.0,
+    "mean_time_since_last_activity": 5165771.8,
+    "median_description_length": 437.5,
+    "mean_description_length": 658.39,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.43,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 7.11
+}

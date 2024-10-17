@@ -1,0 +1,23 @@
+{
+    "name": "react",
+    "id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+    "owner": "facebook",
+    "stars": 228365,
+    "url": "https://github.com/facebook/react",
+    "total_pull_requests": 16230,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 7.31,
+    "median_additions": 91.0,
+    "mean_additions": 250.66,
+    "median_deletions": 24.0,
+    "mean_deletions": 148.52,
+    "median_time_since_last_activity": 51862.5,
+    "mean_time_since_last_activity": 2007693.56,
+    "median_description_length": 380.0,
+    "mean_description_length": 580.84,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.5,
+    "median_total_comments": 1.5,
+    "mean_total_comments": 3.0
+}

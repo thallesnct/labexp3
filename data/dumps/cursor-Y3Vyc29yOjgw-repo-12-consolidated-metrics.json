@@ -1,0 +1,23 @@
+{
+    "name": "RxJava",
+    "id": "MDEwOlJlcG9zaXRvcnk3NTA4NDEx",
+    "owner": "ReactiveX",
+    "stars": 47870,
+    "url": "https://github.com/ReactiveX/RxJava",
+    "total_pull_requests": 3948,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.5,
+    "mean_changed_files": 13.65,
+    "median_additions": 152.0,
+    "mean_additions": 641.37,
+    "median_deletions": 10.0,
+    "mean_deletions": 143.23,
+    "median_time_since_last_activity": 23180.0,
+    "mean_time_since_last_activity": 104575.07,
+    "median_description_length": 203.5,
+    "mean_description_length": 295.03,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.44,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.17
+}

@@ -1,0 +1,23 @@
+{
+    "name": "serverless",
+    "id": "MDEwOlJlcG9zaXRvcnkzNDMwMjY5OA==",
+    "owner": "serverless",
+    "stars": 46417,
+    "url": "https://github.com/serverless/serverless",
+    "total_pull_requests": 5626,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.25,
+    "median_additions": 39.0,
+    "mean_additions": 178.21,
+    "median_deletions": 6.0,
+    "mean_deletions": 101.12,
+    "median_time_since_last_activity": 268551.0,
+    "mean_time_since_last_activity": 1397627.18,
+    "median_description_length": 784.0,
+    "mean_description_length": 1032.18,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.78,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 6.81
+}

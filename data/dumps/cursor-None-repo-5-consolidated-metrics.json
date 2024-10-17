@@ -1,0 +1,23 @@
+{
+    "name": "awesome-selfhosted",
+    "id": "MDEwOlJlcG9zaXRvcnkzNjYzMzM3MA==",
+    "owner": "awesome-selfhosted",
+    "stars": 198887,
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "total_pull_requests": 3036,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.01,
+    "median_additions": 1.0,
+    "mean_additions": 2.77,
+    "median_deletions": 0.0,
+    "mean_deletions": 1.15,
+    "median_time_since_last_activity": 1161414.5,
+    "mean_time_since_last_activity": 1403553.35,
+    "median_description_length": 2488.0,
+    "mean_description_length": 1608.96,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.48,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.84
+}

@@ -1,0 +1,23 @@
+{
+    "name": "immich",
+    "id": "R_kgDOGyI-8A",
+    "owner": "immich-app",
+    "stars": 48777,
+    "url": "https://github.com/immich-app/immich",
+    "total_pull_requests": 5550,
+    "selected_prs_amount": 100,
+    "median_changed_files": 10.5,
+    "mean_changed_files": 23.83,
+    "median_additions": 251.0,
+    "mean_additions": 952.24,
+    "median_deletions": 61.0,
+    "mean_deletions": 296.15,
+    "median_time_since_last_activity": 185411.0,
+    "mean_time_since_last_activity": 1113296.04,
+    "median_description_length": 227.0,
+    "mean_description_length": 389.52,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.87,
+    "median_total_comments": 2.5,
+    "mean_total_comments": 4.82
+}

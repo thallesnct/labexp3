@@ -1,0 +1,23 @@
+{
+    "name": "fastify",
+    "id": "MDEwOlJlcG9zaXRvcnk2OTQ5NTE3MA==",
+    "owner": "fastify",
+    "stars": 32166,
+    "url": "https://github.com/fastify/fastify",
+    "total_pull_requests": 3346,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.26,
+    "median_additions": 9.5,
+    "mean_additions": 66.83,
+    "median_deletions": 3.0,
+    "mean_deletions": 46.68,
+    "median_time_since_last_activity": 44366.5,
+    "mean_time_since_last_activity": 927106.91,
+    "median_description_length": 1811.0,
+    "mean_description_length": 1603.07,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 3.9,
+    "median_total_comments": 1.5,
+    "mean_total_comments": 3.37
+}

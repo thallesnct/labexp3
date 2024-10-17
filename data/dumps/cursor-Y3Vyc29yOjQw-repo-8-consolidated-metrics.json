@@ -1,0 +1,23 @@
+{
+    "name": "playwright",
+    "id": "MDEwOlJlcG9zaXRvcnkyMjE5ODE4OTE=",
+    "owner": "microsoft",
+    "stars": 66295,
+    "url": "https://github.com/microsoft/playwright",
+    "total_pull_requests": 15200,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 6.65,
+    "median_additions": 75.0,
+    "mean_additions": 114.49,
+    "median_deletions": 49.5,
+    "mean_deletions": 115.48,
+    "median_time_since_last_activity": 46898.5,
+    "mean_time_since_last_activity": 83767.22,
+    "median_description_length": 0.0,
+    "mean_description_length": 45.26,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.21,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.31
+}

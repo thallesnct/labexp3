@@ -1,0 +1,23 @@
+{
+    "name": "flutter",
+    "id": "MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==",
+    "owner": "flutter",
+    "stars": 165478,
+    "url": "https://github.com/flutter/flutter",
+    "total_pull_requests": 56391,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 7.46,
+    "median_additions": 32.0,
+    "mean_additions": 207.12,
+    "median_deletions": 5.0,
+    "mean_deletions": 74.3,
+    "median_time_since_last_activity": 252925.5,
+    "mean_time_since_last_activity": 910870.73,
+    "median_description_length": 1908.5,
+    "mean_description_length": 1498.06,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.18,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.51
+}

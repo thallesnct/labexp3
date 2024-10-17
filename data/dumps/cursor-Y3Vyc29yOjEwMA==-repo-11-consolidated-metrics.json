@@ -1,0 +1,23 @@
+{
+    "name": "quill",
+    "id": "MDEwOlJlcG9zaXRvcnk1MjM5MTg1",
+    "owner": "slab",
+    "stars": 43478,
+    "url": "https://github.com/slab/quill",
+    "total_pull_requests": 756,
+    "selected_prs_amount": 59,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 15.101694915254237,
+    "median_additions": 27.0,
+    "mean_additions": 1740.2203389830509,
+    "median_deletions": 6.0,
+    "mean_deletions": 790.6101694915254,
+    "median_time_since_last_activity": 572536.0,
+    "mean_time_since_last_activity": 14750331.305084746,
+    "median_description_length": 252.0,
+    "mean_description_length": 450.9491525423729,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 3.1016949152542375,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.88135593220339
+}

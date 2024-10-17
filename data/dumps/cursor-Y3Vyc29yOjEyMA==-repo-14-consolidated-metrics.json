@@ -1,0 +1,23 @@
+{
+    "name": "kong",
+    "id": "MDEwOlJlcG9zaXRvcnkyNjc4MzI5NQ==",
+    "owner": "Kong",
+    "stars": 39067,
+    "url": "https://github.com/Kong/kong",
+    "total_pull_requests": 8148,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 6.5,
+    "median_additions": 29.0,
+    "mean_additions": 209.66,
+    "median_deletions": 4.5,
+    "mean_deletions": 82.15,
+    "median_time_since_last_activity": 360023.0,
+    "mean_time_since_last_activity": 2424687.72,
+    "median_description_length": 211.0,
+    "mean_description_length": 331.24,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 2.88,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.22
+}

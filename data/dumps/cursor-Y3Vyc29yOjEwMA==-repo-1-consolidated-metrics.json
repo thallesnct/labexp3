@@ -1,0 +1,23 @@
+{
+    "name": "awesome-rust",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTkzODI0Mw==",
+    "owner": "rust-unofficial",
+    "stars": 46499,
+    "url": "https://github.com/rust-unofficial/awesome-rust",
+    "total_pull_requests": 1678,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.14,
+    "median_additions": 1.0,
+    "mean_additions": 7.45,
+    "median_deletions": 0.0,
+    "mean_deletions": 5.32,
+    "median_time_since_last_activity": 264739.5,
+    "mean_time_since_last_activity": 1584880.06,
+    "median_description_length": 40.0,
+    "mean_description_length": 105.33,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.15,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.09
+}

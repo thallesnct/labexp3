@@ -1,0 +1,23 @@
+{
+    "name": "expo",
+    "id": "MDEwOlJlcG9zaXRvcnk2NTc1MDI0MQ==",
+    "owner": "expo",
+    "stars": 33554,
+    "url": "https://github.com/expo/expo",
+    "total_pull_requests": 16404,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.5,
+    "mean_changed_files": 119.78,
+    "median_additions": 78.5,
+    "mean_additions": 7573.46,
+    "median_deletions": 13.0,
+    "mean_deletions": 5395.41,
+    "median_time_since_last_activity": 221675.5,
+    "mean_time_since_last_activity": 1578921.8,
+    "median_description_length": 449.0,
+    "mean_description_length": 652.44,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.14,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.93
+}

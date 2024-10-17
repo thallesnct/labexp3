@@ -1,0 +1,23 @@
+{
+    "name": "lerna",
+    "id": "MDEwOlJlcG9zaXRvcnk0NzM5NDc3Ng==",
+    "owner": "lerna",
+    "stars": 35698,
+    "url": "https://github.com/lerna/lerna",
+    "total_pull_requests": 1354,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.6,
+    "median_additions": 24.5,
+    "mean_additions": 114.92,
+    "median_deletions": 4.0,
+    "mean_deletions": 32.78,
+    "median_time_since_last_activity": 491486.5,
+    "mean_time_since_last_activity": 3262741.66,
+    "median_description_length": 208.0,
+    "mean_description_length": 312.67,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.83,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 5.84
+}

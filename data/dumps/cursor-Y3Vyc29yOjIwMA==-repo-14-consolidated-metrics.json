@@ -1,0 +1,23 @@
+{
+    "name": "certbot",
+    "id": "MDEwOlJlcG9zaXRvcnkyNjUxNjIxMA==",
+    "owner": "certbot",
+    "stars": 31444,
+    "url": "https://github.com/certbot/certbot",
+    "total_pull_requests": 4657,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 13.57,
+    "median_additions": 16.5,
+    "mean_additions": 249.51,
+    "median_deletions": 12.0,
+    "mean_deletions": 300.54,
+    "median_time_since_last_activity": 190788.5,
+    "mean_time_since_last_activity": 1935914.89,
+    "median_description_length": 463.0,
+    "mean_description_length": 663.48,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.38,
+    "median_total_comments": 0.5,
+    "mean_total_comments": 2.08
+}

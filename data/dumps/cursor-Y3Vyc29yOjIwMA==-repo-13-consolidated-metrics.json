@@ -1,0 +1,23 @@
+{
+    "name": "poetry",
+    "id": "MDEwOlJlcG9zaXRvcnkxMjMzMDM0MDI=",
+    "owner": "python-poetry",
+    "stars": 31467,
+    "url": "https://github.com/python-poetry/poetry",
+    "total_pull_requests": 2926,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 6.74,
+    "median_additions": 16.5,
+    "mean_additions": 80.84,
+    "median_deletions": 4.0,
+    "mean_deletions": 36.65,
+    "median_time_since_last_activity": 1394668.5,
+    "mean_time_since_last_activity": 8851474.71,
+    "median_description_length": 455.0,
+    "mean_description_length": 670.91,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.09,
+    "median_total_comments": 2.5,
+    "mean_total_comments": 3.88
+}

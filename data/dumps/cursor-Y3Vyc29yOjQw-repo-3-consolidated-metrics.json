@@ -1,0 +1,23 @@
+{
+    "name": "gpt4all",
+    "id": "R_kgDOJPPS-Q",
+    "owner": "nomic-ai",
+    "stars": 70048,
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "total_pull_requests": 1029,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 4.48,
+    "median_additions": 23.0,
+    "mean_additions": 665.35,
+    "median_deletions": 3.0,
+    "mean_deletions": 41.23,
+    "median_time_since_last_activity": 115428.5,
+    "mean_time_since_last_activity": 846191.01,
+    "median_description_length": 233.5,
+    "mean_description_length": 507.42,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.09,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 3.05
+}

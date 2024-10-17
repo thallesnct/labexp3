@@ -1,0 +1,23 @@
+{
+    "name": "ComfyUI",
+    "id": "R_kgDOIygeJg",
+    "owner": "comfyanonymous",
+    "stars": 53339,
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "total_pull_requests": 1045,
+    "selected_prs_amount": 114,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 7.640350877192983,
+    "median_additions": 34.5,
+    "mean_additions": 1003.9824561403509,
+    "median_deletions": 3.0,
+    "mean_deletions": 38.324561403508774,
+    "median_time_since_last_activity": 914114.5,
+    "mean_time_since_last_activity": 6142668.412280702,
+    "median_description_length": 351.0,
+    "mean_description_length": 616.1842105263158,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.8684210526315788,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 5.412280701754386
+}

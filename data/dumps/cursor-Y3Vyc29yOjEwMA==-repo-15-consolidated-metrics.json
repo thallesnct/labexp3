@@ -1,0 +1,23 @@
+{
+    "name": "retrofit",
+    "id": "MDEwOlJlcG9zaXRvcnk4OTIyNzU=",
+    "owner": "square",
+    "stars": 43028,
+    "url": "https://github.com/square/retrofit",
+    "total_pull_requests": 1416,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 5.25,
+    "median_additions": 62.5,
+    "mean_additions": 158.0,
+    "median_deletions": 5.0,
+    "mean_deletions": 30.0,
+    "median_time_since_last_activity": 119280.0,
+    "mean_time_since_last_activity": 4880818.89,
+    "median_description_length": 76.5,
+    "mean_description_length": 139.74,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.04,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.83
+}

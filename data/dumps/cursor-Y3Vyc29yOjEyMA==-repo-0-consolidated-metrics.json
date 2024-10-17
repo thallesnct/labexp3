@@ -1,0 +1,23 @@
+{
+    "name": "query",
+    "id": "MDEwOlJlcG9zaXRvcnkyMDc2NDUwODM=",
+    "owner": "TanStack",
+    "stars": 42171,
+    "url": "https://github.com/TanStack/query",
+    "total_pull_requests": 2818,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 8.36,
+    "median_additions": 42.5,
+    "mean_additions": 445.01,
+    "median_deletions": 6.0,
+    "mean_deletions": 188.35,
+    "median_time_since_last_activity": 178133.5,
+    "mean_time_since_last_activity": 892393.49,
+    "median_description_length": 157.0,
+    "mean_description_length": 364.83,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.09,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 5.49
+}

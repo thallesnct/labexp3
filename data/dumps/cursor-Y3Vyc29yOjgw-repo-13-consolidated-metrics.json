@@ -1,0 +1,23 @@
+{
+    "name": "Ghost",
+    "id": "MDEwOlJlcG9zaXRvcnk5ODUyOTE4",
+    "owner": "TryGhost",
+    "stars": 47200,
+    "url": "https://github.com/TryGhost/Ghost",
+    "total_pull_requests": 14304,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.5,
+    "mean_changed_files": 11.04,
+    "median_additions": 62.0,
+    "mean_additions": 193.82,
+    "median_deletions": 24.5,
+    "mean_deletions": 179.76,
+    "median_time_since_last_activity": 165997.5,
+    "mean_time_since_last_activity": 1227494.59,
+    "median_description_length": 386.5,
+    "mean_description_length": 593.97,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.42,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 1.94
+}

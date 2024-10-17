@@ -1,0 +1,23 @@
+{
+    "name": "segment-anything",
+    "id": "R_kgDOJNbS5w",
+    "owner": "facebookresearch",
+    "stars": 47145,
+    "url": "https://github.com/facebookresearch/segment-anything",
+    "total_pull_requests": 109,
+    "selected_prs_amount": 3,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.0,
+    "median_additions": 5.0,
+    "mean_additions": 5.0,
+    "median_deletions": 5.0,
+    "mean_deletions": 5.333333333333333,
+    "median_time_since_last_activity": 2194546.0,
+    "mean_time_since_last_activity": 3874131.0,
+    "median_description_length": 385.0,
+    "mean_description_length": 639.0,
+    "median_total_participants": 6.0,
+    "mean_total_participants": 5.666666666666667,
+    "median_total_comments": 6.0,
+    "mean_total_comments": 5.666666666666667
+}

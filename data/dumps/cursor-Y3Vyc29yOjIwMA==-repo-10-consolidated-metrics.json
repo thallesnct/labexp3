@@ -1,0 +1,23 @@
+{
+    "name": "Langchain-Chatchat",
+    "id": "R_kgDOJQ_nbA",
+    "owner": "chatchat-space",
+    "stars": 31613,
+    "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "total_pull_requests": 849,
+    "selected_prs_amount": 23,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.1739130434782608,
+    "median_additions": 21.0,
+    "mean_additions": 53.17391304347826,
+    "median_deletions": 5.0,
+    "mean_deletions": 12.608695652173912,
+    "median_time_since_last_activity": 371584.0,
+    "mean_time_since_last_activity": 1492311.4347826086,
+    "median_description_length": 106.0,
+    "mean_description_length": 345.0,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 3.0434782608695654,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 3.0434782608695654
+}

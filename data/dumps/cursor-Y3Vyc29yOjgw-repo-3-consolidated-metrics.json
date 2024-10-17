@@ -1,0 +1,23 @@
+{
+    "name": "ionic-framework",
+    "id": "MDEwOlJlcG9zaXRvcnkxMjI1NjM3Ng==",
+    "owner": "ionic-team",
+    "stars": 51004,
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "total_pull_requests": 7850,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 8.58,
+    "median_additions": 18.0,
+    "mean_additions": 1567.04,
+    "median_deletions": 4.0,
+    "mean_deletions": 78.33,
+    "median_time_since_last_activity": 729833.5,
+    "mean_time_since_last_activity": 4472018.27,
+    "median_description_length": 293.5,
+    "mean_description_length": 360.09,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.47,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.87
+}

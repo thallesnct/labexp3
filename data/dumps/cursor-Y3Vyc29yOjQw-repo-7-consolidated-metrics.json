@@ -1,0 +1,23 @@
+{
+    "name": "nest",
+    "id": "MDEwOlJlcG9zaXRvcnk4MDk0NTQyOA==",
+    "owner": "nestjs",
+    "stars": 67285,
+    "url": "https://github.com/nestjs/nest",
+    "total_pull_requests": 8322,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 33.89,
+    "median_additions": 77.0,
+    "mean_additions": 909.95,
+    "median_deletions": 10.0,
+    "mean_deletions": 940.63,
+    "median_time_since_last_activity": 1409306.5,
+    "mean_time_since_last_activity": 5843852.07,
+    "median_description_length": 1117.0,
+    "mean_description_length": 1023.77,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.23,
+    "median_total_comments": 5.0,
+    "mean_total_comments": 7.1
+}

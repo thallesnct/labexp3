@@ -1,0 +1,23 @@
+{
+    "name": "marked",
+    "id": "MDEwOlJlcG9zaXRvcnkyMDk2NTc5",
+    "owner": "markedjs",
+    "stars": 32999,
+    "url": "https://github.com/markedjs/marked",
+    "total_pull_requests": 1844,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 5.77,
+    "median_additions": 17.5,
+    "mean_additions": 266.09,
+    "median_deletions": 3.0,
+    "mean_deletions": 130.42,
+    "median_time_since_last_activity": 165312.0,
+    "mean_time_since_last_activity": 8504774.45,
+    "median_description_length": 635.5,
+    "mean_description_length": 708.16,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.85,
+    "median_total_comments": 4.0,
+    "mean_total_comments": 7.61
+}

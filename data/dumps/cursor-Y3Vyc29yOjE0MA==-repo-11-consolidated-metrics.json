@@ -1,0 +1,23 @@
+{
+    "name": "manifesto",
+    "id": "R_kgDOKGq6Fg",
+    "owner": "opentofu",
+    "stars": 36204,
+    "url": "https://github.com/opentofu/manifesto",
+    "total_pull_requests": 1126,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.07,
+    "median_additions": 5.0,
+    "mean_additions": 10.59,
+    "median_deletions": 0.0,
+    "mean_deletions": 3.05,
+    "median_time_since_last_activity": 13848.5,
+    "mean_time_since_last_activity": 21481.96,
+    "median_description_length": 0.0,
+    "mean_description_length": 40.53,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.38,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.55
+}

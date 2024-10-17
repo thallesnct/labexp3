@@ -1,0 +1,23 @@
+{
+    "name": "fastlane",
+    "id": "MDEwOlJlcG9zaXRvcnkyNzQ0Mjk2Nw==",
+    "owner": "fastlane",
+    "stars": 39525,
+    "url": "https://github.com/fastlane/fastlane",
+    "total_pull_requests": 7499,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 4.58,
+    "median_additions": 9.5,
+    "mean_additions": 81.35,
+    "median_deletions": 2.0,
+    "mean_deletions": 150.08,
+    "median_time_since_last_activity": 64556.0,
+    "mean_time_since_last_activity": 1587374.59,
+    "median_description_length": 151.0,
+    "mean_description_length": 300.02,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.13,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.73
+}

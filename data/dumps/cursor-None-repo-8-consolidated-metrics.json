@@ -1,0 +1,23 @@
+{
+    "name": "bootstrap",
+    "id": "MDEwOlJlcG9zaXRvcnkyMTI2MjQ0",
+    "owner": "twbs",
+    "stars": 170435,
+    "url": "https://github.com/twbs/bootstrap",
+    "total_pull_requests": 15372,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 4.22,
+    "median_additions": 8.0,
+    "mean_additions": 106.07,
+    "median_deletions": 3.5,
+    "mean_deletions": 79.63,
+    "median_time_since_last_activity": 279819.0,
+    "mean_time_since_last_activity": 3847082.82,
+    "median_description_length": 107.5,
+    "mean_description_length": 253.76,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.48,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 4.06
+}

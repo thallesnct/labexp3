@@ -1,0 +1,23 @@
+{
+    "name": "electron",
+    "id": "MDEwOlJlcG9zaXRvcnk5Mzg0MjY3",
+    "owner": "electron",
+    "stars": 113963,
+    "url": "https://github.com/electron/electron",
+    "total_pull_requests": 23311,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.78,
+    "median_additions": 17.0,
+    "mean_additions": 97.0,
+    "median_deletions": 2.0,
+    "mean_deletions": 78.83,
+    "median_time_since_last_activity": 75032.0,
+    "mean_time_since_last_activity": 437737.07,
+    "median_description_length": 275.0,
+    "mean_description_length": 631.16,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.61,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 2.89
+}

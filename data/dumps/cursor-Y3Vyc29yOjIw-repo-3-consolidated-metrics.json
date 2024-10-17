@@ -1,0 +1,23 @@
+{
+    "name": "ollama",
+    "id": "R_kgDOJ0Z1Pg",
+    "owner": "ollama",
+    "stars": 93418,
+    "url": "https://github.com/ollama/ollama",
+    "total_pull_requests": 2438,
+    "selected_prs_amount": 100,
+    "median_changed_files": 3.0,
+    "mean_changed_files": 4.17,
+    "median_additions": 42.5,
+    "mean_additions": 543.92,
+    "median_deletions": 13.0,
+    "mean_deletions": 81.24,
+    "median_time_since_last_activity": 69446.0,
+    "mean_time_since_last_activity": 350575.27,
+    "median_description_length": 50.5,
+    "mean_description_length": 153.42,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.44,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.75
+}

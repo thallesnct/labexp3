@@ -1,0 +1,23 @@
+{
+    "name": "axios",
+    "id": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+    "owner": "axios",
+    "stars": 105478,
+    "url": "https://github.com/axios/axios",
+    "total_pull_requests": 1702,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.74,
+    "median_additions": 8.5,
+    "mean_additions": 135.15,
+    "median_deletions": 1.0,
+    "mean_deletions": 75.63,
+    "median_time_since_last_activity": 11665472.5,
+    "mean_time_since_last_activity": 25987415.41,
+    "median_description_length": 224.5,
+    "mean_description_length": 377.62,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.78,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 5.56
+}

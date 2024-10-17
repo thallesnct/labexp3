@@ -1,0 +1,32 @@
+[
+    {
+        "state": "MERGED",
+        "description": 40,
+        "additions": 0,
+        "deletions": 2,
+        "changed_files": 1,
+        "closed_at": "2024-02-26T15:22:25Z",
+        "created_at": "2024-02-14T13:18:46Z",
+        "merged_at": "2024-02-26T15:22:25Z",
+        "should_remove": false,
+        "time_since_last_activity": 1044219.0,
+        "total_comments": 1,
+        "total_participants": 3,
+        "total_reviews": 1
+    },
+    {
+        "state": "MERGED",
+        "description": 199,
+        "additions": 1,
+        "deletions": 0,
+        "changed_files": 1,
+        "closed_at": "2024-08-07T17:15:58Z",
+        "created_at": "2024-06-11T04:41:44Z",
+        "merged_at": "2024-08-07T17:15:58Z",
+        "should_remove": false,
+        "time_since_last_activity": 4970054.0,
+        "total_comments": 0,
+        "total_participants": 3,
+        "total_reviews": 1
+    }
+]

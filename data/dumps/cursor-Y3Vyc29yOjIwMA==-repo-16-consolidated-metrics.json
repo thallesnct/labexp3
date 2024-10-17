@@ -1,0 +1,23 @@
+{
+    "name": "jsoncrack.com",
+    "id": "R_kgDOGwsu2A",
+    "owner": "AykutSarac",
+    "stars": 31040,
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "total_pull_requests": 139,
+    "selected_prs_amount": 17,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 5.176470588235294,
+    "median_additions": 31.0,
+    "mean_additions": 159.11764705882354,
+    "median_deletions": 1.0,
+    "mean_deletions": 82.11764705882354,
+    "median_time_since_last_activity": 2931956.0,
+    "mean_time_since_last_activity": 9071743.235294119,
+    "median_description_length": 244.0,
+    "mean_description_length": 457.2352941176471,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.3529411764705883,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.3529411764705883
+}

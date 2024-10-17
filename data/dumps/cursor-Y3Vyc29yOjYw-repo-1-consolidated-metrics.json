@@ -1,0 +1,23 @@
+{
+    "name": "echarts",
+    "id": "MDEwOlJlcG9zaXRvcnk5MTg1Nzky",
+    "owner": "apache",
+    "stars": 60400,
+    "url": "https://github.com/apache/echarts",
+    "total_pull_requests": 1859,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 3.56,
+    "median_additions": 7.5,
+    "mean_additions": 320.86,
+    "median_deletions": 2.0,
+    "mean_deletions": 165.62,
+    "median_time_since_last_activity": 1029351.5,
+    "mean_time_since_last_activity": 12974041.85,
+    "median_description_length": 62.0,
+    "mean_description_length": 208.22,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.75,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.67
+}

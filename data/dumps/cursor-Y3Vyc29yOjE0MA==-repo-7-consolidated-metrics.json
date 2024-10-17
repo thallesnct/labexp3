@@ -1,0 +1,23 @@
+{
+    "name": "Open-Assistant",
+    "id": "R_kgDOIm2Jlg",
+    "owner": "LAION-AI",
+    "stars": 37011,
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "total_pull_requests": 1964,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 8.67,
+    "median_additions": 92.0,
+    "mean_additions": 1278.11,
+    "median_deletions": 10.0,
+    "mean_deletions": 652.22,
+    "median_time_since_last_activity": 41557.0,
+    "mean_time_since_last_activity": 218371.54,
+    "median_description_length": 181.0,
+    "mean_description_length": 234.4,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.0,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 1.4
+}

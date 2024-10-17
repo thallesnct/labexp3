@@ -1,0 +1,23 @@
+{
+    "name": "localstack",
+    "id": "MDEwOlJlcG9zaXRvcnk3MTk0ODQ5OA==",
+    "owner": "localstack",
+    "stars": 55905,
+    "url": "https://github.com/localstack/localstack",
+    "total_pull_requests": 5991,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.62,
+    "median_additions": 46.5,
+    "mean_additions": 90.87,
+    "median_deletions": 4.0,
+    "mean_deletions": 27.29,
+    "median_time_since_last_activity": 535555.0,
+    "mean_time_since_last_activity": 4859016.36,
+    "median_description_length": 229.0,
+    "mean_description_length": 405.34,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.11,
+    "median_total_comments": 3.0,
+    "mean_total_comments": 3.86
+}

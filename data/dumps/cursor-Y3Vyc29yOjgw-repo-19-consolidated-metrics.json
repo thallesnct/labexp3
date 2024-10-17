@@ -1,0 +1,23 @@
+{
+    "name": "cypress",
+    "id": "MDEwOlJlcG9zaXRvcnkzMTYyOTc1MQ==",
+    "owner": "cypress-io",
+    "stars": 46849,
+    "url": "https://github.com/cypress-io/cypress",
+    "total_pull_requests": 7835,
+    "selected_prs_amount": 100,
+    "median_changed_files": 4.0,
+    "mean_changed_files": 11.02,
+    "median_additions": 63.0,
+    "mean_additions": 370.69,
+    "median_deletions": 7.5,
+    "mean_deletions": 177.63,
+    "median_time_since_last_activity": 270952.0,
+    "mean_time_since_last_activity": 5711743.89,
+    "median_description_length": 93.0,
+    "mean_description_length": 224.52,
+    "median_total_participants": 3.0,
+    "mean_total_participants": 3.66,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 4.03
+}

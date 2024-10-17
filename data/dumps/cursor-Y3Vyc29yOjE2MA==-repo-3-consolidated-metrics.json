@@ -1,0 +1,23 @@
+{
+    "name": "DeepSpeed",
+    "id": "MDEwOlJlcG9zaXRvcnkyMzU4NjAyMDQ=",
+    "owner": "microsoft",
+    "stars": 35119,
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "total_pull_requests": 2985,
+    "selected_prs_amount": 100,
+    "median_changed_files": 2.0,
+    "mean_changed_files": 3.13,
+    "median_additions": 37.0,
+    "mean_additions": 92.54,
+    "median_deletions": 10.5,
+    "mean_deletions": 29.14,
+    "median_time_since_last_activity": 77018.0,
+    "mean_time_since_last_activity": 1212131.31,
+    "median_description_length": 29.5,
+    "mean_description_length": 284.44,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.61,
+    "median_total_comments": 0.0,
+    "mean_total_comments": 0.87
+}

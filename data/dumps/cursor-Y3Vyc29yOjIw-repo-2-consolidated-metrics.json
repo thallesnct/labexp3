@@ -1,0 +1,23 @@
+{
+    "name": "terminal",
+    "id": "MDEwOlJlcG9zaXRvcnkxMDAwNjA5MTI=",
+    "owner": "microsoft",
+    "stars": 95299,
+    "url": "https://github.com/microsoft/terminal",
+    "total_pull_requests": 4467,
+    "selected_prs_amount": 100,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 3.32,
+    "median_additions": 10.0,
+    "mean_additions": 96.61,
+    "median_deletions": 2.0,
+    "mean_deletions": 50.9,
+    "median_time_since_last_activity": 162737.0,
+    "mean_time_since_last_activity": 1869437.85,
+    "median_description_length": 101.0,
+    "mean_description_length": 203.15,
+    "median_total_participants": 4.0,
+    "mean_total_participants": 4.84,
+    "median_total_comments": 2.0,
+    "mean_total_comments": 3.68
+}

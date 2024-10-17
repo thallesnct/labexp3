@@ -1,0 +1,23 @@
+{
+    "name": "nocode",
+    "id": "MDEwOlJlcG9zaXRvcnkxMjA1MzgzMDQ=",
+    "owner": "kelseyhightower",
+    "stars": 60573,
+    "url": "https://github.com/kelseyhightower/nocode",
+    "total_pull_requests": 626,
+    "selected_prs_amount": 80,
+    "median_changed_files": 1.0,
+    "mean_changed_files": 1.75,
+    "median_additions": 1.0,
+    "mean_additions": 63.5875,
+    "median_deletions": 0.0,
+    "mean_deletions": 11.4,
+    "median_time_since_last_activity": 51465809.5,
+    "mean_time_since_last_activity": 62266959.775,
+    "median_description_length": 18.0,
+    "mean_description_length": 62.275,
+    "median_total_participants": 3.5,
+    "mean_total_participants": 4.825,
+    "median_total_comments": 1.0,
+    "mean_total_comments": 2.3
+}

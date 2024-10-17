@@ -1,0 +1,23 @@
+{
+    "name": "gitea",
+    "id": "MDEwOlJlcG9zaXRvcnk3MjQ5NTU3OQ==",
+    "owner": "go-gitea",
+    "stars": 44592,
+    "url": "https://github.com/go-gitea/gitea",
+    "total_pull_requests": 18432,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 32.3,
+    "median_additions": 57.5,
+    "mean_additions": 11041.24,
+    "median_deletions": 13.5,
+    "mean_deletions": 193.26,
+    "median_time_since_last_activity": 156735.5,
+    "mean_time_since_last_activity": 1270929.49,
+    "median_description_length": 91.5,
+    "mean_description_length": 189.98,
+    "median_total_participants": 6.0,
+    "mean_total_participants": 6.02,
+    "median_total_comments": 6.0,
+    "mean_total_comments": 9.42
+}

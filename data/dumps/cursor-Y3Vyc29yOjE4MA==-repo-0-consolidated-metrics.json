@@ -1,0 +1,23 @@
+{
+    "name": "typeorm",
+    "id": "MDEwOlJlcG9zaXRvcnk1Mjc3MzE1Nw==",
+    "owner": "typeorm",
+    "stars": 34131,
+    "url": "https://github.com/typeorm/typeorm",
+    "total_pull_requests": 2922,
+    "selected_prs_amount": 100,
+    "median_changed_files": 5.0,
+    "mean_changed_files": 9.01,
+    "median_additions": 95.5,
+    "mean_additions": 212.59,
+    "median_deletions": 6.0,
+    "mean_deletions": 63.5,
+    "median_time_since_last_activity": 330145.0,
+    "mean_time_since_last_activity": 7288970.35,
+    "median_description_length": 88.5,
+    "mean_description_length": 240.11,
+    "median_total_participants": 2.0,
+    "mean_total_participants": 2.88,
+    "median_total_comments": 3.5,
+    "mean_total_comments": 5.67
+}
