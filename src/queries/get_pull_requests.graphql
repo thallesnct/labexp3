@@ -1,0 +1,32 @@
+query($repoId: ID!, $after: String) {
+    node(id: $repoId) {
+        ... on Repository {
+            pullRequests(first: 100, states: [CLOSED, MERGED], after: $after) {
+                totalCount
+                nodes {
+                    state
+                    additions
+                    deletions
+                    changedFiles
+                    closedAt
+                    createdAt
+                    mergedAt
+                    body
+                    comments(first: 1) {
+                        totalCount
+                    }
+                    reviews(first: 1) {
+                        totalCount
+                    }
+                    participants(first: 1) {
+                        totalCount
+                    }
+                }
+                pageInfo {
+                    endCursor
+                    hasNextPage
+                }
+            }
+        }
+    }
+}

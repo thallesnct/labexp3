@@ -1,0 +1,22 @@
+query($cursor: String) {
+    search(query: "stars:>1 and sort:stars-desc", type: REPOSITORY, first: 20, after: $cursor) {
+        pageInfo {
+            endCursor
+            hasNextPage
+        }
+        nodes {
+            ... on Repository {
+                name
+                owner {
+                    login
+                }
+              	id
+                pullRequests(first: 1) {
+                    totalCount
+                }
+                stargazerCount
+                url
+            }
+        }
+    }
+}
